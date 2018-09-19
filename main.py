@@ -119,10 +119,15 @@ if __name__ == '__main__':
 
     recipe = Recipe(recipe_name, recipe_servings, ingredients=ingredients)
 
+    food_nut_string="\nNutrients by Ingredient:\n\n"
     for food in data['foods']:
+        food_nut_string = food_nut_string + food['food_name'] + "\n"
         for key in recipe.nutrients:
             if food["nf_" + key]:
+                food_nut_string = food_nut_string + key + ": " + str(food["nf_" + key]) + "\n"
                 recipe.nutrients[key] += food["nf_" + key]
+        food_nut_string = food_nut_string + "\n"
 
     recipe.update()
     print(recipe)
+    print(food_nut_string)

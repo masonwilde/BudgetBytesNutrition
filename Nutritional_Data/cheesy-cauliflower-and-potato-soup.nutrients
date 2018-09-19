@@ -39,3 +39,126 @@ sugars: 17.035000000000004
 protein: 21.095
 potassium: 1570.625
 p: 507.19500000000005
+
+
+Nutrients by Ingredient:
+
+yellow onion
+calories: 41.36
+total_fat: 0.18
+saturated_fat: 0.03
+sodium: 2.82
+total_carbohydrate: 9.54
+dietary_fiber: 1.32
+sugars: 4.45
+protein: 1.28
+potassium: 156.04
+p: 32.9
+
+olive oil
+calories: 119.34
+total_fat: 13.5
+saturated_fat: 1.86
+sodium: 0.27
+potassium: 0.14
+
+cauliflower
+calories: 128.8
+total_fat: 2.52
+saturated_fat: 0.39
+sodium: 84
+total_carbohydrate: 23.02
+dietary_fiber: 12.88
+sugars: 11.65
+protein: 10.3
+potassium: 795.2
+p: 179.2
+
+russet potatoes
+calories: 659.98
+total_fat: 0.88
+saturated_fat: 0.22
+sodium: 95.25
+total_carbohydrate: 145.88
+dietary_fiber: 15.65
+sugars: 7.35
+protein: 17.89
+potassium: 3742.13
+p: 483.08
+
+vegetable broth
+calories: 52.8
+total_fat: 0.62
+saturated_fat: 0.27
+sodium: 2666.4
+total_carbohydrate: 8.98
+sugars: 5.02
+protein: 2.02
+potassium: 176
+p: 26.4
+
+evaporated milk
+calories: 506.52
+total_fat: 28.58
+saturated_fat: 17.35
+cholesterol: 109.62
+sodium: 400.68
+total_carbohydrate: 37.95
+sugars: 37.95
+protein: 25.74
+potassium: 1145.34
+p: 767.34
+
+smoked paprika
+calories: 3.24
+total_fat: 0.15
+saturated_fat: 0.02
+sodium: 0.78
+total_carbohydrate: 0.62
+dietary_fiber: 0.4
+sugars: 0.12
+protein: 0.16
+potassium: 26.22
+p: 3.61
+
+salt
+sodium: 2325.48
+potassium: 0.48
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+cheddar shredded
+calories: 458.14
+total_fat: 37.77
+saturated_fat: 21.4
+cholesterol: 112.27
+sodium: 740.5
+total_carbohydrate: 3.5
+sugars: 0.54
+protein: 25.93
+potassium: 86.18
+p: 515.97
+
+green onions
+calories: 14.4
+total_fat: 0.09
+saturated_fat: 0.01
+sodium: 7.2
+total_carbohydrate: 3.3
+dietary_fiber: 1.17
+sugars: 1.05
+protein: 0.82
+potassium: 124.2
+p: 16.65
+
+
