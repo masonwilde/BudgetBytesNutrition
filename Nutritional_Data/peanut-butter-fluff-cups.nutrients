@@ -37,3 +37,89 @@ protein: 13.2775
 potassium: 369.2950000000001
 p: 224.28
 
+
+Nutrients by Ingredient:
+
+heavy whipping cream
+calories: 809.2
+total_fat: 85.87
+saturated_fat: 54.82
+cholesterol: 268.94
+sodium: 64.26
+total_carbohydrate: 6.52
+sugars: 6.95
+protein: 6.76
+potassium: 226.1
+p: 138.04
+
+granulated sugar
+calories: 97.14
+sodium: 0.25
+total_carbohydrate: 25.09
+sugars: 25.05
+potassium: 0.5
+
+vanilla extract
+calories: 12.1
+sodium: 0.38
+total_carbohydrate: 0.53
+sugars: 0.53
+potassium: 6.22
+p: 0.25
+
+natural peanut butter
+calories: 799.48
+total_fat: 67.64
+saturated_fat: 10.52
+sodium: 473.95
+total_carbohydrate: 28.96
+dietary_fiber: 11.44
+sugars: 6.67
+protein: 33.16
+potassium: 863.59
+p: 494.4
+
+cream cheese
+calories: 396.9
+total_fat: 39.05
+saturated_fat: 22.92
+cholesterol: 114.53
+sodium: 356.08
+total_carbohydrate: 6.26
+sugars: 4.26
+protein: 6.97
+potassium: 149.69
+p: 121.34
+
+powdered sugar
+calories: 320.93
+sodium: 1.65
+total_carbohydrate: 82.31
+sugars: 80.69
+potassium: 1.65
+
+milk
+calories: 31.24
+total_fat: 1.18
+saturated_fat: 0.73
+cholesterol: 4.9
+sodium: 31.85
+total_carbohydrate: 3.04
+protein: 2.13
+potassium: 99.23
+p: 61.25
+
+chocolate graham crackers
+calories: 268.46
+total_fat: 8.8
+saturated_fat: 2.63
+cholesterol: 1.24
+sodium: 359.6
+total_carbohydrate: 45.07
+dietary_fiber: 2.11
+sugars: 23.21
+protein: 4.09
+potassium: 130.2
+p: 81.84
+
+

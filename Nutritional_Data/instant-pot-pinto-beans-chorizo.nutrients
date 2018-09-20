@@ -38,3 +38,103 @@ protein: 31.320000000000004
 potassium: 1869.3399999999997
 p: 502.3
 
+
+Nutrients by Ingredient:
+
+oil
+calories: 123.76
+total_fat: 14
+saturated_fat: 0.91
+
+chorizo
+calories: 515.97
+total_fat: 43.4
+saturated_fat: 16.31
+cholesterol: 99.79
+sodium: 1400.49
+total_carbohydrate: 2.11
+protein: 27.33
+potassium: 451.33
+p: 170.1
+
+yellow onion
+calories: 41.36
+total_fat: 0.18
+saturated_fat: 0.03
+sodium: 2.82
+total_carbohydrate: 9.54
+dietary_fiber: 1.32
+sugars: 4.45
+protein: 1.28
+potassium: 156.04
+p: 32.9
+
+cloves garlic
+calories: 13.41
+total_fat: 0.05
+saturated_fat: 0.01
+sodium: 1.53
+total_carbohydrate: 2.98
+dietary_fiber: 0.19
+sugars: 0.09
+protein: 0.57
+potassium: 36.09
+p: 13.77
+
+dry pinto beans
+calories: 1339.42
+total_fat: 4.75
+saturated_fat: 0.91
+sodium: 46.32
+total_carbohydrate: 241.44
+dietary_fiber: 59.83
+sugars: 8.14
+protein: 82.68
+potassium: 5376.98
+p: 1586.46
+
+bay leaves
+calories: 1.25
+total_fat: 0.03
+saturated_fat: 0.01
+sodium: 0.09
+total_carbohydrate: 0.3
+dietary_fiber: 0.11
+protein: 0.03
+potassium: 2.12
+p: 0.45
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+reduced sodium chicken broth
+calories: 50.4
+sodium: 1663.2
+total_carbohydrate: 2.74
+sugars: 1.58
+protein: 9.79
+potassium: 612
+p: 129.6
+
+diced tomatoes
+calories: 68.04
+total_fat: 1.06
+saturated_fat: 0.14
+sodium: 489.04
+total_carbohydrate: 14.76
+dietary_fiber: 8.08
+sugars: 10.84
+protein: 3.36
+potassium: 812.23
+p: 72.29
+
+

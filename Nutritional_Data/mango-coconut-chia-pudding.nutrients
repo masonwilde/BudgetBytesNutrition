@@ -33,3 +33,47 @@ protein: 4.055
 potassium: 235.34500000000003
 p: 191.8925
 
+
+Nutrients by Ingredient:
+
+frozen mango
+calories: 136.08
+total_fat: 0.86
+saturated_fat: 0.21
+sodium: 2.27
+total_carbohydrate: 33.97
+dietary_fiber: 3.63
+sugars: 30.98
+protein: 1.86
+potassium: 381.02
+p: 31.75
+
+lite coconut milk
+calories: 239.31
+total_fat: 25.91
+saturated_fat: 22.98
+sodium: 25.67
+total_carbohydrate: 3.41
+protein: 2.45
+potassium: 267.24
+p: 116.62
+
+sugar
+calories: 16.25
+sodium: 0.04
+total_carbohydrate: 4.2
+sugars: 4.19
+potassium: 0.08
+
+chia seeds
+calories: 349.92
+total_fat: 22.13
+saturated_fat: 2.4
+sodium: 11.52
+total_carbohydrate: 30.33
+dietary_fiber: 24.77
+protein: 11.91
+potassium: 293.04
+p: 619.2
+
+

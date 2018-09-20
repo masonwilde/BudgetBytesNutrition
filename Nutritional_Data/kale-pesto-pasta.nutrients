@@ -39,3 +39,124 @@ protein: 19.3225
 potassium: 533.38
 p: 291.85499999999996
 
+
+Nutrients by Ingredient:
+
+pasta
+calories: 716.68
+total_fat: 4.22
+saturated_fat: 0.8
+sodium: 4.54
+total_carbohydrate: 139.98
+dietary_fiber: 8.16
+sugars: 2.54
+protein: 26.31
+potassium: 199.58
+p: 263.08
+
+kale
+calories: 145.6
+total_fat: 2.08
+saturated_fat: 0.27
+sodium: 119.6
+total_carbohydrate: 29.28
+dietary_fiber: 10.4
+sugars: 6.5
+protein: 9.88
+potassium: 1185.6
+p: 145.6
+
+olive oil
+calories: 630.12
+total_fat: 71.28
+saturated_fat: 9.84
+sodium: 1.43
+potassium: 0.71
+
+lemon
+calories: 24.36
+total_fat: 0.25
+saturated_fat: 0.03
+sodium: 1.68
+total_carbohydrate: 7.83
+dietary_fiber: 2.35
+sugars: 2.1
+protein: 0.92
+potassium: 115.92
+p: 13.44
+
+juice
+calories: 127.98
+sodium: 144.57
+total_carbohydrate: 31.19
+dietary_fiber: 0.24
+sugars: 28.7
+protein: 0.31
+potassium: 289.14
+p: 16.59
+
+clove garlic
+calories: 12.59
+total_fat: 0.04
+saturated_fat: 0.01
+sodium: 1.44
+total_carbohydrate: 2.79
+dietary_fiber: 0.18
+sugars: 0.08
+protein: 0.54
+potassium: 33.88
+p: 12.93
+
+chopped walnuts
+calories: 196.2
+total_fat: 19.56
+saturated_fat: 1.84
+sodium: 0.6
+total_carbohydrate: 4.11
+dietary_fiber: 2.01
+sugars: 0.78
+protein: 4.57
+potassium: 132.3
+p: 103.8
+
+parmesan
+calories: 138.6
+total_fat: 9.19
+saturated_fat: 5.07
+cholesterol: 28.38
+sodium: 595.32
+total_carbohydrate: 4.59
+sugars: 0.02
+protein: 9.38
+potassium: 59.4
+p: 206.91
+
+salt
+sodium: 1162.74
+potassium: 0.24
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+mozzarella
+calories: 340.2
+total_fat: 25.34
+saturated_fat: 14.91
+cholesterol: 89.59
+sodium: 711.02
+total_carbohydrate: 2.48
+sugars: 1.17
+protein: 25.14
+potassium: 86.18
+p: 401.44
+
+

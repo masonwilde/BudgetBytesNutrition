@@ -39,3 +39,130 @@ protein: 26.7225
 potassium: 769.6625
 p: 361.8375
 
+
+Nutrients by Ingredient:
+
+bowtie pasta
+calories: 358.34
+total_fat: 2.11
+saturated_fat: 0.4
+sodium: 2.27
+total_carbohydrate: 69.99
+dietary_fiber: 4.08
+sugars: 1.27
+protein: 13.15
+potassium: 99.79
+p: 131.54
+
+salt
+sodium: 3488.22
+potassium: 0.72
+
+pasta
+calories: 195.92
+total_fat: 1.15
+saturated_fat: 0.22
+sodium: 1.24
+total_carbohydrate: 38.27
+dietary_fiber: 2.23
+sugars: 0.69
+protein: 7.19
+potassium: 54.56
+p: 71.92
+
+baby spinach
+calories: 26.08
+total_fat: 0.44
+saturated_fat: 0.07
+sodium: 89.59
+total_carbohydrate: 4.12
+dietary_fiber: 2.49
+sugars: 0.48
+protein: 3.24
+potassium: 632.77
+p: 55.57
+
+can kidney beans
+calories: 527.31
+total_fat: 4.47
+saturated_fat: 0.77
+sodium: 982.33
+total_carbohydrate: 91.39
+dietary_fiber: 23.39
+sugars: 16.16
+protein: 33.93
+potassium: 1177.94
+p: 514.55
+
+pepperoni
+calories: 425.88
+total_fat: 39.11
+saturated_fat: 14.96
+cholesterol: 81.97
+sodium: 1336.79
+total_carbohydrate: 1
+protein: 16.27
+potassium: 231.53
+p: 133.51
+
+mozzarella
+calories: 340.2
+total_fat: 25.34
+saturated_fat: 14.91
+cholesterol: 89.59
+sodium: 711.02
+total_carbohydrate: 2.48
+sugars: 1.17
+protein: 25.14
+potassium: 86.18
+p: 401.44
+
+grape tomatoes
+calories: 53.64
+total_fat: 0.6
+saturated_fat: 0.08
+sodium: 14.9
+total_carbohydrate: 11.59
+dietary_fiber: 3.58
+sugars: 7.84
+protein: 2.62
+potassium: 706.26
+p: 71.52
+
+caesar dressing
+calories: 921.94
+total_fat: 98.4
+saturated_fat: 14.95
+cholesterol: 66.34
+sodium: 2056.51
+total_carbohydrate: 5.61
+dietary_fiber: 0.85
+sugars: 4.78
+protein: 3.69
+potassium: 49.33
+p: 32.32
+
+parmesan
+calories: 21
+total_fat: 1.39
+saturated_fat: 0.77
+cholesterol: 4.3
+sodium: 90.2
+total_carbohydrate: 0.7
+protein: 1.42
+potassium: 9
+p: 31.35
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+

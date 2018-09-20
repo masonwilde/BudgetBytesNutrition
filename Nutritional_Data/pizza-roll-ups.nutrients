@@ -34,3 +34,58 @@ protein: 19.3475
 potassium: 316.235
 p: 269.23
 
+
+Nutrients by Ingredient:
+
+flour tortillas
+calories: 1274
+total_fat: 27.83
+saturated_fat: 6.84
+sodium: 1873.76
+total_carbohydrate: 217.95
+dietary_fiber: 12.94
+protein: 34.1
+potassium: 513.52
+p: 486.08
+
+pepperoni
+calories: 403.2
+total_fat: 37.02
+saturated_fat: 14.17
+cholesterol: 77.6
+sodium: 1265.6
+total_carbohydrate: 0.94
+protein: 15.4
+potassium: 219.2
+p: 126.4
+
+mozzarella cheese sticks
+calories: 340.2
+total_fat: 25.34
+saturated_fat: 14.91
+cholesterol: 89.59
+sodium: 711.02
+total_carbohydrate: 2.48
+sugars: 1.17
+protein: 25.14
+potassium: 86.18
+p: 401.44
+
+oil
+calories: 123.76
+total_fat: 14
+saturated_fat: 0.91
+
+pizza sauce
+calories: 68.04
+total_fat: 1.45
+saturated_fat: 0.58
+sodium: 438.48
+total_carbohydrate: 10.91
+dietary_fiber: 2.52
+sugars: 4.76
+protein: 2.75
+potassium: 446.04
+p: 63
+
+

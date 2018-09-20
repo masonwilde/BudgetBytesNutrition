@@ -35,3 +35,77 @@ protein: 3.77
 potassium: 71.02
 p: 42.385
 
+
+Nutrients by Ingredient:
+
+pasta
+calories: 358.34
+total_fat: 2.11
+saturated_fat: 0.4
+sodium: 2.27
+total_carbohydrate: 69.99
+dietary_fiber: 4.08
+sugars: 1.27
+protein: 13.15
+potassium: 99.79
+p: 131.54
+
+asparagus
+calories: 3.3
+total_fat: 0.03
+saturated_fat: 0.01
+sodium: 2.1
+total_carbohydrate: 0.62
+dietary_fiber: 0.3
+sugars: 0.2
+protein: 0.36
+potassium: 33.6
+p: 8.1
+
+butter
+calories: 203.63
+total_fat: 23.04
+saturated_fat: 14.59
+cholesterol: 61.06
+sodium: 182.61
+total_carbohydrate: 0.02
+sugars: 0.02
+protein: 0.24
+potassium: 6.82
+p: 6.82
+
+cloves garlic
+calories: 8.94
+total_fat: 0.03
+saturated_fat: 0.01
+sodium: 1.02
+total_carbohydrate: 1.98
+dietary_fiber: 0.13
+sugars: 0.06
+protein: 0.38
+potassium: 24.06
+p: 9.18
+
+lemon
+calories: 24.36
+total_fat: 0.25
+saturated_fat: 0.03
+sodium: 1.68
+total_carbohydrate: 7.83
+dietary_fiber: 2.35
+sugars: 2.1
+protein: 0.92
+potassium: 115.92
+p: 13.44
+
+salt and pepper to taste
+calories: 0.72
+total_fat: 0.01
+sodium: 295.49
+total_carbohydrate: 0.18
+dietary_fiber: 0.07
+protein: 0.03
+potassium: 3.89
+p: 0.46
+
+

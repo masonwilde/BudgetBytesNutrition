@@ -38,3 +38,102 @@ protein: 11.67
 potassium: 170.46
 p: 137.10750000000002
 
+
+Nutrients by Ingredient:
+
+mayonnaise
+calories: 374
+total_fat: 41.17
+saturated_fat: 6.44
+cholesterol: 23.1
+sodium: 349.25
+total_carbohydrate: 0.31
+sugars: 0.31
+protein: 0.53
+potassium: 11
+p: 11.55
+
+plain greek yogurt
+calories: 33.43
+total_fat: 0.22
+saturated_fat: 0.07
+cholesterol: 2.83
+sodium: 20.4
+total_carbohydrate: 2.04
+sugars: 1.84
+protein: 5.77
+potassium: 79.9
+p: 76.5
+
+lemon juice
+calories: 0.85
+sodium: 1.2
+total_carbohydrate: 0.28
+dietary_fiber: 0.04
+sugars: 0.08
+protein: 0.02
+potassium: 5.45
+p: 0.45
+
+dijon mustard
+calories: 3.12
+total_fat: 0.17
+saturated_fat: 0.01
+sodium: 135.04
+total_carbohydrate: 0.3
+dietary_fiber: 0.21
+sugars: 0.05
+protein: 0.19
+potassium: 7.92
+p: 5.61
+
+honey
+calories: 21.38
+sodium: 0.28
+total_carbohydrate: 5.79
+dietary_fiber: 0.01
+sugars: 5.77
+protein: 0.02
+potassium: 3.66
+p: 0.28
+
+curry powder
+calories: 10.24
+total_fat: 0.44
+saturated_fat: 0.05
+sodium: 1.64
+total_carbohydrate: 1.76
+dietary_fiber: 1.68
+sugars: 0.09
+protein: 0.45
+potassium: 36.86
+p: 11.56
+
+salt
+sodium: 1162.74
+potassium: 0.24
+
+chopped cilantro
+calories: 0.92
+total_fat: 0.02
+sodium: 1.84
+total_carbohydrate: 0.15
+dietary_fiber: 0.11
+sugars: 0.03
+protein: 0.09
+potassium: 20.84
+p: 1.92
+
+tofu
+calories: 329.43
+total_fat: 20.88
+saturated_fat: 3.65
+sodium: 15.88
+total_carbohydrate: 4.68
+dietary_fiber: 3.97
+sugars: 2.82
+protein: 39.61
+potassium: 515.97
+p: 440.56
+
+

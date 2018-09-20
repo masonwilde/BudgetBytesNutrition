@@ -36,3 +36,91 @@ protein: 22.96
 potassium: 262.1025
 p: 380.82
 
+
+Nutrients by Ingredient:
+
+ham
+calories: 78.81
+total_fat: 2.89
+saturated_fat: 0.54
+cholesterol: 36.29
+sodium: 553.96
+total_carbohydrate: 0.6
+sugars: 0.6
+protein: 12.58
+potassium: 195.62
+p: 174.64
+
+bell pepper
+calories: 18.9
+total_fat: 0.14
+saturated_fat: 0.02
+sodium: 1.35
+total_carbohydrate: 4.52
+dietary_fiber: 0.81
+sugars: 2.15
+protein: 0.62
+potassium: 112.05
+p: 12.15
+
+onion
+calories: 24.75
+total_fat: 0.11
+saturated_fat: 0.02
+sodium: 1.69
+total_carbohydrate: 5.71
+dietary_fiber: 0.79
+sugars: 2.66
+protein: 0.77
+potassium: 93.38
+p: 19.69
+
+sharp cheddar
+calories: 464.94
+total_fat: 38.35
+saturated_fat: 21.96
+cholesterol: 112.27
+sodium: 730.3
+total_carbohydrate: 2.42
+sugars: 0.31
+protein: 27.5
+potassium: 86.18
+p: 521.64
+
+butter
+calories: 67.85
+total_fat: 7.68
+saturated_fat: 4.86
+cholesterol: 20.34
+sodium: 60.84
+total_carbohydrate: 0.01
+sugars: 0.01
+protein: 0.08
+potassium: 2.27
+p: 2.27
+
+seasoning salt
+calories: 1.23
+total_fat: 0.04
+saturated_fat: 0.01
+sodium: 759.85
+total_carbohydrate: 0.27
+dietary_fiber: 0.17
+sugars: 0.02
+protein: 0.05
+potassium: 6.91
+p: 0.89
+
+large eggs
+calories: 572
+total_fat: 38.04
+saturated_fat: 12.5
+cholesterol: 1488
+sodium: 568
+total_carbohydrate: 2.88
+sugars: 1.48
+protein: 50.24
+potassium: 552
+p: 792
+
+

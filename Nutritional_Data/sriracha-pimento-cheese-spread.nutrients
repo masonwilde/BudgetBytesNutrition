@@ -35,3 +35,77 @@ protein: 15.64
 potassium: 200.155
 p: 308.3725
 
+
+Nutrients by Ingredient:
+
+cheddar shredded
+calories: 916.27
+total_fat: 75.55
+saturated_fat: 42.79
+cholesterol: 224.53
+sodium: 1481
+total_carbohydrate: 7.01
+sugars: 1.09
+protein: 51.87
+potassium: 172.37
+p: 1031.94
+
+cream cheese
+calories: 396.9
+total_fat: 39.05
+saturated_fat: 22.92
+cholesterol: 114.53
+sodium: 356.08
+total_carbohydrate: 6.26
+sugars: 4.26
+protein: 6.97
+potassium: 149.69
+p: 121.34
+
+mayonnaise
+calories: 748
+total_fat: 82.34
+saturated_fat: 12.87
+cholesterol: 46.2
+sodium: 698.5
+total_carbohydrate: 0.63
+sugars: 0.63
+protein: 1.06
+potassium: 22
+p: 23.1
+
+sriracha
+calories: 54.41
+total_fat: 0.54
+sodium: 1242.54
+total_carbohydrate: 11.21
+dietary_fiber: 1.29
+sugars: 8.84
+protein: 1.13
+potassium: 187.79
+p: 26.91
+
+roasted red peppers
+calories: 74.18
+total_fat: 4.33
+saturated_fat: 0.6
+sodium: 2.82
+total_carbohydrate: 9.18
+dietary_fiber: 1.64
+sugars: 6.01
+protein: 1.26
+potassium: 227.37
+p: 24.65
+
+green onion
+calories: 4.8
+total_fat: 0.03
+sodium: 2.4
+total_carbohydrate: 1.1
+dietary_fiber: 0.39
+sugars: 0.35
+protein: 0.27
+potassium: 41.4
+p: 5.55
+
+

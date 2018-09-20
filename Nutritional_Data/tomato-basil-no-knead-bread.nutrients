@@ -37,3 +37,85 @@ protein: 18.09
 potassium: 360.81250000000006
 p: 286.53999999999996
 
+
+Nutrients by Ingredient:
+
+sun dried tomatoes
+calories: 45.98
+total_fat: 0.53
+saturated_fat: 0.08
+sodium: 19.07
+total_carbohydrate: 9.94
+dietary_fiber: 2.19
+sugars: 6.7
+protein: 2.51
+potassium: 610.69
+p: 63.44
+
+all purpose flour
+calories: 1365
+total_fat: 3.68
+saturated_fat: 0.58
+sodium: 7.5
+total_carbohydrate: 286.16
+dietary_fiber: 10.13
+sugars: 1.01
+protein: 38.74
+potassium: 401.25
+p: 405
+
+bread machine yeast
+calories: 26
+total_fat: 0.61
+saturated_fat: 0.08
+sodium: 4.08
+total_carbohydrate: 3.3
+dietary_fiber: 2.15
+protein: 3.24
+potassium: 76.4
+p: 50.96
+
+salt
+sodium: 3488.22
+potassium: 0.72
+
+dried basil
+calories: 3.84
+total_fat: 0.07
+saturated_fat: 0.04
+sodium: 1.25
+total_carbohydrate: 0.79
+dietary_fiber: 0.62
+sugars: 0.03
+protein: 0.38
+potassium: 43.4
+p: 4.52
+
+water
+sodium: 14.2
+
+tomato paste
+calories: 13.12
+total_fat: 0.08
+saturated_fat: 0.02
+sodium: 9.44
+total_carbohydrate: 3.03
+dietary_fiber: 0.66
+sugars: 1.95
+protein: 0.69
+potassium: 162.24
+p: 13.28
+
+mozzarella shredded
+calories: 344.74
+total_fat: 22.36
+saturated_fat: 13.01
+cholesterol: 73.71
+sodium: 773.39
+total_carbohydrate: 9.14
+sugars: 2.54
+protein: 26.8
+potassium: 148.55
+p: 608.96
+
+

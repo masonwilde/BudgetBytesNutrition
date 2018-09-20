@@ -38,3 +38,107 @@ protein: 17.7925
 potassium: 471.13749999999993
 p: 334.4825
 
+
+Nutrients by Ingredient:
+
+penne pasta
+calories: 537.52
+total_fat: 3.16
+saturated_fat: 0.6
+sodium: 3.4
+total_carbohydrate: 104.99
+dietary_fiber: 6.12
+sugars: 1.91
+protein: 19.73
+potassium: 149.69
+p: 197.32
+
+butter
+calories: 203.63
+total_fat: 23.04
+saturated_fat: 14.59
+cholesterol: 61.06
+sodium: 182.61
+total_carbohydrate: 0.02
+sugars: 0.02
+protein: 0.24
+potassium: 6.82
+p: 6.82
+
+cloves garlic
+calories: 8.94
+total_fat: 0.03
+saturated_fat: 0.01
+sodium: 1.02
+total_carbohydrate: 1.98
+dietary_fiber: 0.13
+sugars: 0.06
+protein: 0.38
+potassium: 24.06
+p: 9.18
+
+whole milk
+calories: 297.68
+total_fat: 15.86
+saturated_fat: 9.1
+cholesterol: 48.8
+sodium: 209.84
+total_carbohydrate: 23.42
+sugars: 24.64
+protein: 15.37
+potassium: 644.16
+p: 409.92
+
+cream cheese
+calories: 595.35
+total_fat: 58.58
+saturated_fat: 34.38
+cholesterol: 171.8
+sodium: 534.11
+total_carbohydrate: 9.39
+sugars: 6.4
+protein: 10.46
+potassium: 224.53
+p: 182.01
+
+grated parmesan
+calories: 315
+total_fat: 20.88
+saturated_fat: 11.53
+cholesterol: 64.5
+sodium: 1353
+total_carbohydrate: 10.43
+sugars: 0.05
+protein: 21.32
+potassium: 135
+p: 470.25
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+baby spinach
+calories: 27.6
+total_fat: 0.47
+saturated_fat: 0.08
+sodium: 94.8
+total_carbohydrate: 4.36
+dietary_fiber: 2.64
+sugars: 0.5
+protein: 3.43
+potassium: 669.6
+p: 58.8
+
+

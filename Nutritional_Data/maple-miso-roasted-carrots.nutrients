@@ -35,3 +35,75 @@ protein: 2.1025
 potassium: 314.2275
 p: 50.9575
 
+
+Nutrients by Ingredient:
+
+miso
+calories: 67.32
+total_fat: 2.04
+saturated_fat: 0.35
+sodium: 1267.52
+total_carbohydrate: 8.63
+dietary_fiber: 1.84
+sugars: 2.11
+protein: 4.35
+potassium: 71.4
+p: 54.06
+
+maple syrup
+calories: 104
+total_fat: 0.02
+sodium: 4.8
+total_carbohydrate: 26.82
+sugars: 24.18
+protein: 0.02
+potassium: 84.8
+p: 0.8
+
+butter
+calories: 101.81
+total_fat: 11.52
+saturated_fat: 7.29
+cholesterol: 30.53
+sodium: 91.31
+total_carbohydrate: 0.01
+sugars: 0.01
+protein: 0.12
+potassium: 3.41
+p: 3.41
+
+fresh ginger
+calories: 1.6
+total_fat: 0.02
+sodium: 0.26
+total_carbohydrate: 0.36
+dietary_fiber: 0.04
+sugars: 0.03
+protein: 0.04
+potassium: 8.3
+p: 0.68
+
+soy sauce
+calories: 2.81
+total_fat: 0.03
+sodium: 291.13
+total_carbohydrate: 0.26
+dietary_fiber: 0.04
+sugars: 0.02
+protein: 0.43
+potassium: 23.06
+p: 8.8
+
+carrots
+calories: 158.76
+total_fat: 0.82
+saturated_fat: 0.14
+sodium: 263.08
+total_carbohydrate: 37.29
+dietary_fiber: 13.61
+sugars: 15.65
+protein: 3.45
+potassium: 1065.94
+p: 136.08
+
+

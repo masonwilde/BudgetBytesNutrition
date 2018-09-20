@@ -36,3 +36,83 @@ protein: 1.3675000000000002
 potassium: 180.655
 p: 24.6425
 
+
+Nutrients by Ingredient:
+
+chili powder
+calories: 22.56
+total_fat: 1.14
+saturated_fat: 0.2
+sodium: 229.36
+total_carbohydrate: 3.98
+dietary_fiber: 2.78
+sugars: 0.58
+protein: 1.08
+potassium: 156
+p: 24
+
+smoked paprika
+calories: 6.49
+total_fat: 0.3
+saturated_fat: 0.05
+sodium: 1.56
+total_carbohydrate: 1.24
+dietary_fiber: 0.8
+sugars: 0.24
+protein: 0.33
+potassium: 52.44
+p: 7.22
+
+cumin
+calories: 7.88
+total_fat: 0.47
+saturated_fat: 0.03
+sodium: 3.53
+total_carbohydrate: 0.93
+dietary_fiber: 0.22
+sugars: 0.05
+protein: 0.37
+potassium: 37.55
+p: 10.48
+
+cayenne pepper
+calories: 1.43
+total_fat: 0.08
+saturated_fat: 0.01
+sodium: 0.14
+total_carbohydrate: 0.25
+dietary_fiber: 0.12
+sugars: 0.05
+protein: 0.05
+potassium: 9.06
+p: 1.32
+
+oregano
+calories: 1.86
+total_fat: 0.03
+saturated_fat: 0.01
+sodium: 0.18
+total_carbohydrate: 0.48
+dietary_fiber: 0.3
+sugars: 0.03
+protein: 0.06
+potassium: 8.82
+p: 1.04
+
+salt
+sodium: 1162.74
+potassium: 0.24
+
+black pepper
+calories: 86.6
+total_fat: 1.12
+saturated_fat: 0.48
+sodium: 6.9
+total_carbohydrate: 22.06
+dietary_fiber: 8.73
+sugars: 0.22
+protein: 3.58
+potassium: 458.51
+p: 54.51
+
+

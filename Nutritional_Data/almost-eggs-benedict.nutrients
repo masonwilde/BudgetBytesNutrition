@@ -37,3 +37,90 @@ protein: 14.879999999999999
 potassium: 252.78
 p: 226.07750000000001
 
+
+Nutrients by Ingredient:
+
+butter
+calories: 509.07
+total_fat: 57.59
+saturated_fat: 36.47
+cholesterol: 152.65
+sodium: 456.53
+total_carbohydrate: 0.04
+sugars: 0.04
+protein: 0.6
+potassium: 17.04
+p: 17.04
+
+english muffins
+calories: 267.9
+total_fat: 2.05
+saturated_fat: 0.3
+sodium: 528.96
+total_carbohydrate: 52.44
+dietary_fiber: 3.08
+protein: 8.78
+potassium: 149.34
+p: 151.62
+
+large eggs
+calories: 214.5
+total_fat: 14.27
+saturated_fat: 4.69
+cholesterol: 558
+sodium: 213
+total_carbohydrate: 1.08
+sugars: 0.56
+protein: 18.84
+potassium: 207
+p: 297
+
+ham
+calories: 188.35
+total_fat: 6.91
+saturated_fat: 1.29
+cholesterol: 86.72
+sodium: 1323.84
+total_carbohydrate: 1.44
+sugars: 1.44
+protein: 30.05
+potassium: 467.48
+p: 417.34
+
+water
+sodium: 0.59
+
+lemon
+calories: 24.36
+total_fat: 0.25
+saturated_fat: 0.03
+sodium: 1.68
+total_carbohydrate: 7.83
+dietary_fiber: 2.35
+sugars: 2.1
+protein: 0.92
+potassium: 115.92
+p: 13.44
+
+cayenne
+calories: 8.43
+total_fat: 0.46
+saturated_fat: 0.09
+sodium: 0.8
+total_carbohydrate: 1.5
+dietary_fiber: 0.72
+sugars: 0.27
+protein: 0.32
+potassium: 53.37
+p: 7.76
+
+salt and pepper
+calories: 0.18
+sodium: 73.78
+total_carbohydrate: 0.05
+dietary_fiber: 0.02
+protein: 0.01
+potassium: 0.97
+p: 0.11
+
+

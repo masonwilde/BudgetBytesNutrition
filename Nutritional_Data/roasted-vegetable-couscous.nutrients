@@ -39,3 +39,117 @@ protein: 9.435
 potassium: 665.9225000000001
 p: 115.79000000000002
 
+
+Nutrients by Ingredient:
+
+roma tomatoes
+calories: 44.64
+total_fat: 0.5
+saturated_fat: 0.07
+sodium: 12.4
+total_carbohydrate: 9.65
+dietary_fiber: 2.98
+sugars: 6.52
+protein: 2.18
+potassium: 587.76
+p: 59.52
+
+zucchini
+calories: 65.1
+total_fat: 1.56
+saturated_fat: 0.31
+sodium: 13.02
+total_carbohydrate: 11.67
+dietary_fiber: 4.34
+sugars: 7.42
+protein: 4.95
+potassium: 1145.76
+p: 160.58
+
+bell pepper
+calories: 31.92
+total_fat: 0.23
+saturated_fat: 0.03
+sodium: 2.28
+total_carbohydrate: 7.64
+dietary_fiber: 1.37
+sugars: 3.64
+protein: 1.05
+potassium: 189.24
+p: 20.52
+
+red onion
+calories: 41.36
+total_fat: 0.18
+saturated_fat: 0.03
+sodium: 2.82
+total_carbohydrate: 9.54
+dietary_fiber: 1.32
+sugars: 4.45
+protein: 1.28
+potassium: 156.04
+p: 32.9
+
+cloves garlic
+calories: 17.88
+total_fat: 0.06
+saturated_fat: 0.01
+sodium: 2.04
+total_carbohydrate: 3.97
+dietary_fiber: 0.25
+sugars: 0.12
+protein: 0.76
+potassium: 48.12
+p: 18.36
+
+olive oil
+calories: 238.68
+total_fat: 27
+saturated_fat: 3.73
+sodium: 0.54
+potassium: 0.27
+
+salt and pepper
+calories: 0.36
+sodium: 147.57
+total_carbohydrate: 0.09
+dietary_fiber: 0.04
+protein: 0.01
+potassium: 1.94
+p: 0.23
+
+couscous
+calories: 767.2
+total_fat: 1.1
+saturated_fat: 0.2
+sodium: 34.25
+total_carbohydrate: 159.06
+dietary_fiber: 9.59
+sugars: 0.69
+protein: 25.96
+potassium: 397.3
+p: 150.7
+
+vegetable broth
+calories: 39.6
+total_fat: 0.46
+saturated_fat: 0.2
+sodium: 1999.8
+total_carbohydrate: 6.73
+sugars: 3.76
+protein: 1.52
+potassium: 132
+p: 19.8
+
+parsley
+calories: 0.34
+total_fat: 0.01
+sodium: 0.53
+total_carbohydrate: 0.06
+dietary_fiber: 0.03
+sugars: 0.01
+protein: 0.03
+potassium: 5.26
+p: 0.55
+
+

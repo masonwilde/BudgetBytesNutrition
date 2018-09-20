@@ -36,3 +36,86 @@ protein: 19.497499999999995
 potassium: 425.38750000000005
 p: 210.71249999999998
 
+
+Nutrients by Ingredient:
+
+chili garlic sauce
+calories: 43.94
+total_fat: 0.21
+saturated_fat: 0.03
+sodium: 1122.3
+total_carbohydrate: 9.26
+dietary_fiber: 0.81
+sugars: 1.49
+protein: 1.82
+potassium: 164.37
+p: 43.85
+
+soy sauce
+calories: 33.79
+total_fat: 0.36
+saturated_fat: 0.05
+sodium: 3501.79
+total_carbohydrate: 3.14
+dietary_fiber: 0.51
+sugars: 0.26
+protein: 5.19
+potassium: 277.31
+p: 105.83
+
+brown sugar
+calories: 173.38
+sodium: 12.78
+total_carbohydrate: 44.75
+sugars: 44.27
+protein: 0.05
+potassium: 60.68
+p: 1.83
+
+ground pork
+calories: 673.58
+total_fat: 47.11
+saturated_fat: 17.51
+cholesterol: 213.19
+sodium: 165.56
+protein: 58.26
+potassium: 821
+p: 512.56
+
+ramen noodles
+calories: 115.24
+total_fat: 4.38
+saturated_fat: 2.02
+sodium: 490.79
+total_carbohydrate: 15.76
+dietary_fiber: 0.92
+sugars: 0.29
+protein: 2.96
+potassium: 22.58
+p: 29.63
+
+green onions
+calories: 14.4
+total_fat: 0.09
+saturated_fat: 0.01
+sodium: 7.2
+total_carbohydrate: 3.3
+dietary_fiber: 1.17
+sugars: 1.05
+protein: 0.82
+potassium: 124.2
+p: 16.65
+
+unsalted peanuts
+calories: 214.26
+total_fat: 18.13
+saturated_fat: 2.82
+sodium: 2.19
+total_carbohydrate: 7.76
+dietary_fiber: 3.07
+sugars: 1.79
+protein: 8.89
+potassium: 231.41
+p: 132.5
+
+

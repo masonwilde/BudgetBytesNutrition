@@ -42,3 +42,139 @@ protein: 24.687500000000004
 potassium: 689.0174999999999
 p: 288.87750000000005
 
+
+Nutrients by Ingredient:
+
+oil
+calories: 247.52
+total_fat: 28
+saturated_fat: 1.82
+
+rice vinegar
+calories: 2.68
+sodium: 0.3
+total_carbohydrate: 0.01
+sugars: 0.01
+potassium: 0.3
+p: 0.6
+
+soy sauce
+calories: 11.24
+total_fat: 0.12
+saturated_fat: 0.02
+sodium: 1164.52
+total_carbohydrate: 1.05
+dietary_fiber: 0.17
+sugars: 0.08
+protein: 1.73
+potassium: 92.22
+p: 35.19
+
+sesame oil
+calories: 39.78
+total_fat: 4.5
+saturated_fat: 0.64
+
+brown sugar
+calories: 41.96
+sodium: 3.09
+total_carbohydrate: 10.83
+sugars: 10.71
+protein: 0.01
+potassium: 14.69
+p: 0.44
+
+fresh ginger
+calories: 1.6
+total_fat: 0.02
+sodium: 0.26
+total_carbohydrate: 0.36
+dietary_fiber: 0.04
+sugars: 0.03
+protein: 0.04
+potassium: 8.3
+p: 0.68
+
+sesame seeds
+calories: 22.6
+total_fat: 1.92
+saturated_fat: 0.27
+sodium: 0.44
+total_carbohydrate: 1.03
+dietary_fiber: 0.56
+protein: 0.68
+potassium: 19
+p: 25.52
+
+salad greens
+calories: 54.48
+total_fat: 0.86
+saturated_fat: 0.15
+sodium: 88.16
+total_carbohydrate: 10.06
+dietary_fiber: 3.91
+sugars: 1.67
+protein: 4.27
+potassium: 669.46
+p: 94.62
+
+mandarin oranges
+calories: 165.28
+total_fat: 0.97
+saturated_fat: 0.12
+sodium: 6.24
+total_carbohydrate: 41.6
+dietary_fiber: 5.61
+sugars: 32.99
+protein: 2.53
+potassium: 517.67
+p: 62.37
+
+rotisserie chicken breast
+calories: 550.16
+total_fat: 24.46
+saturated_fat: 6.32
+cholesterol: 287.04
+sodium: 1037.53
+total_carbohydrate: 0.06
+sugars: 0.06
+protein: 82.17
+potassium: 864.11
+p: 762.45
+
+sliced almonds
+calories: 158.5
+total_fat: 13.67
+saturated_fat: 1.04
+sodium: 0.27
+total_carbohydrate: 5.9
+dietary_fiber: 3.42
+sugars: 1.19
+protein: 5.79
+potassium: 200.66
+p: 131.67
+
+red onion
+calories: 6.6
+total_fat: 0.03
+sodium: 0.45
+total_carbohydrate: 1.52
+dietary_fiber: 0.21
+sugars: 0.71
+protein: 0.2
+potassium: 24.9
+p: 5.25
+
+avocado
+calories: 113.56
+total_fat: 10.48
+saturated_fat: 1.45
+sodium: 5.44
+total_carbohydrate: 5.88
+dietary_fiber: 4.62
+sugars: 0.2
+protein: 1.33
+potassium: 344.76
+p: 36.72
+
+

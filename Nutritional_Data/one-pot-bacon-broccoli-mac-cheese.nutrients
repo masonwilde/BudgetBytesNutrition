@@ -38,3 +38,105 @@ protein: 31.58
 potassium: 574.9549999999999
 p: 568.4150000000001
 
+
+Nutrients by Ingredient:
+
+broccoli florets
+calories: 79.38
+total_fat: 0.93
+saturated_fat: 0.18
+sodium: 92.99
+total_carbohydrate: 16.28
+dietary_fiber: 7.48
+sugars: 3.15
+protein: 5.4
+potassium: 664.51
+p: 151.95
+
+bacon
+calories: 530.71
+total_fat: 39.79
+saturated_fat: 13.57
+cholesterol: 112.27
+sodium: 1909.66
+total_carbohydrate: 1.93
+protein: 38.47
+potassium: 565.87
+p: 439.99
+
+cheddar
+calories: 916.27
+total_fat: 75.55
+saturated_fat: 42.79
+cholesterol: 224.53
+sodium: 1481
+total_carbohydrate: 7.01
+sugars: 1.09
+protein: 51.87
+potassium: 172.37
+p: 1031.94
+
+pasta
+calories: 358.34
+total_fat: 2.11
+saturated_fat: 0.4
+sodium: 2.27
+total_carbohydrate: 69.99
+dietary_fiber: 4.08
+sugars: 1.27
+protein: 13.15
+potassium: 99.79
+p: 131.54
+
+evaporated milk
+calories: 337.68
+total_fat: 19.05
+saturated_fat: 11.57
+cholesterol: 73.08
+sodium: 267.12
+total_carbohydrate: 25.3
+sugars: 25.3
+protein: 17.16
+potassium: 763.56
+p: 511.56
+
+smoked paprika
+calories: 3.24
+total_fat: 0.15
+saturated_fat: 0.02
+sodium: 0.78
+total_carbohydrate: 0.62
+dietary_fiber: 0.4
+sugars: 0.12
+protein: 0.16
+potassium: 26.22
+p: 3.61
+
+hot sauce
+calories: 0.26
+total_fat: 0.01
+sodium: 62.77
+total_carbohydrate: 0.04
+dietary_fiber: 0.01
+sugars: 0.03
+protein: 0.01
+potassium: 3.42
+p: 0.26
+
+dijon mustard
+calories: 1.56
+total_fat: 0.09
+saturated_fat: 0.01
+sodium: 67.52
+total_carbohydrate: 0.15
+dietary_fiber: 0.1
+sugars: 0.02
+protein: 0.1
+potassium: 3.96
+p: 2.81
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+

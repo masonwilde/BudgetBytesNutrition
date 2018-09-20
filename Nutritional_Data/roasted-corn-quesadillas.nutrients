@@ -37,3 +37,94 @@ protein: 28.0
 potassium: 454.8625
 p: 375.0825
 
+
+Nutrients by Ingredient:
+
+cooked chicken
+calories: 445.5
+total_fat: 26.47
+saturated_fat: 7.41
+cholesterol: 190.35
+sodium: 143.78
+total_carbohydrate: 0.1
+protein: 48.52
+potassium: 413.1
+p: 362.48
+
+roasted corn
+calories: 175.46
+total_fat: 7.71
+saturated_fat: 4.11
+cholesterol: 15.24
+sodium: 67.32
+total_carbohydrate: 27.1
+dietary_fiber: 2.9
+sugars: 9.08
+protein: 4.8
+potassium: 392.97
+p: 130.68
+
+green onions
+calories: 9.6
+total_fat: 0.06
+saturated_fat: 0.01
+sodium: 4.8
+total_carbohydrate: 2.2
+dietary_fiber: 0.78
+sugars: 0.7
+protein: 0.55
+potassium: 82.8
+p: 11.1
+
+green chiles
+calories: 45.36
+total_fat: 0.23
+saturated_fat: 0.02
+sodium: 7.94
+total_carbohydrate: 10.73
+dietary_fiber: 1.7
+sugars: 5.78
+protein: 2.27
+potassium: 385.56
+p: 52.16
+
+shredded cheese
+calories: 458.14
+total_fat: 37.77
+saturated_fat: 21.4
+cholesterol: 112.27
+sodium: 740.5
+total_carbohydrate: 3.5
+sugars: 0.54
+protein: 25.93
+potassium: 86.18
+p: 515.97
+
+cumin
+calories: 1.97
+total_fat: 0.12
+saturated_fat: 0.01
+sodium: 0.88
+total_carbohydrate: 0.23
+dietary_fiber: 0.06
+sugars: 0.01
+protein: 0.09
+potassium: 9.39
+p: 2.62
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+tortillas
+calories: 1114.75
+total_fat: 24.35
+saturated_fat: 5.99
+sodium: 1639.54
+total_carbohydrate: 190.71
+dietary_fiber: 11.32
+protein: 29.84
+potassium: 449.33
+p: 425.32
+
+

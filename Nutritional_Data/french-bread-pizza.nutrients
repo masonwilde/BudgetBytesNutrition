@@ -33,3 +33,43 @@ protein: 9.1075
 potassium: 167.3675
 p: 184.79000000000002
 
+
+Nutrients by Ingredient:
+
+french loaf
+calories: 174.08
+total_fat: 1.55
+saturated_fat: 0.34
+sodium: 385.28
+total_carbohydrate: 33.2
+dietary_fiber: 1.41
+sugars: 2.96
+protein: 6.88
+potassium: 74.88
+p: 67.2
+
+pizza sauce
+calories: 68.04
+total_fat: 1.45
+saturated_fat: 0.58
+sodium: 438.48
+total_carbohydrate: 10.91
+dietary_fiber: 2.52
+sugars: 4.76
+protein: 2.75
+potassium: 446.04
+p: 63
+
+shredded mozzarella
+calories: 344.74
+total_fat: 22.36
+saturated_fat: 13.01
+cholesterol: 73.71
+sodium: 773.39
+total_carbohydrate: 9.14
+sugars: 2.54
+protein: 26.8
+potassium: 148.55
+p: 608.96
+
+

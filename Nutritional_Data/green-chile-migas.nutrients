@@ -38,3 +38,117 @@ protein: 20.03
 potassium: 365.9925
 p: 425.555
 
+
+Nutrients by Ingredient:
+
+corn tortillas
+calories: 313.92
+total_fat: 4.1
+saturated_fat: 0.65
+sodium: 64.8
+total_carbohydrate: 64.28
+dietary_fiber: 9.07
+sugars: 1.27
+protein: 8.21
+potassium: 267.84
+p: 452.16
+
+oil
+calories: 61.88
+total_fat: 7
+saturated_fat: 0.46
+
+butter
+calories: 203.63
+total_fat: 23.04
+saturated_fat: 14.59
+cholesterol: 61.06
+sodium: 182.61
+total_carbohydrate: 0.02
+sugars: 0.02
+protein: 0.24
+potassium: 6.82
+p: 6.82
+
+large eggs
+calories: 572
+total_fat: 38.04
+saturated_fat: 12.5
+cholesterol: 1488
+sodium: 568
+total_carbohydrate: 2.88
+sugars: 1.48
+protein: 50.24
+potassium: 552
+p: 792
+
+green chiles
+calories: 45.36
+total_fat: 0.23
+saturated_fat: 0.02
+sodium: 7.94
+total_carbohydrate: 10.73
+dietary_fiber: 1.7
+sugars: 5.78
+protein: 2.27
+potassium: 385.56
+p: 52.16
+
+sour cream
+calories: 113.85
+total_fat: 11.13
+saturated_fat: 5.83
+cholesterol: 33.92
+sodium: 17.83
+total_carbohydrate: 2.66
+sugars: 1.96
+protein: 1.4
+potassium: 71.88
+p: 43.7
+
+queso fresco
+calories: 169.53
+total_fat: 13.51
+saturated_fat: 7.34
+cholesterol: 39.12
+sodium: 425.82
+total_carbohydrate: 1.69
+sugars: 1.32
+protein: 10.26
+potassium: 73.14
+p: 218.3
+
+monterey jack
+calories: 105.75
+total_fat: 8.58
+saturated_fat: 5.41
+cholesterol: 25.23
+sodium: 170.1
+total_carbohydrate: 0.19
+sugars: 0.14
+protein: 6.94
+potassium: 22.96
+p: 125.87
+
+green onions
+calories: 9.6
+total_fat: 0.06
+saturated_fat: 0.01
+sodium: 4.8
+total_carbohydrate: 2.2
+dietary_fiber: 0.78
+sugars: 0.7
+protein: 0.55
+potassium: 82.8
+p: 11.1
+
+salt and pepper
+calories: 0.18
+sodium: 73.78
+total_carbohydrate: 0.05
+dietary_fiber: 0.02
+protein: 0.01
+potassium: 0.97
+p: 0.11
+
+

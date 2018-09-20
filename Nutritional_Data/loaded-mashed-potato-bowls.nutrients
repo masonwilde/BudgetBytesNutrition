@@ -37,3 +37,104 @@ protein: 22.284999999999997
 potassium: 1703.305
 p: 469.075
 
+
+Nutrients by Ingredient:
+
+mashed potatoes
+calories: 1423.8
+total_fat: 52.92
+saturated_fat: 9.39
+cholesterol: 12.6
+sodium: 4195.8
+total_carbohydrate: 213.44
+dietary_fiber: 18.9
+sugars: 17.77
+protein: 24.7
+potassium: 4107.6
+p: 604.8
+
+corn kernels
+calories: 286.08
+total_fat: 4.47
+saturated_fat: 0.59
+sodium: 2.98
+total_carbohydrate: 62.52
+dietary_fiber: 7.15
+sugars: 13.53
+protein: 10.16
+potassium: 649.64
+p: 229.46
+
+can black beans
+calories: 386.98
+total_fat: 1.23
+saturated_fat: 0.32
+sodium: 1632.96
+total_carbohydrate: 70.38
+dietary_fiber: 29.34
+sugars: 0.98
+protein: 25.64
+potassium: 1309.77
+p: 459.27
+
+chili powder
+calories: 3.81
+total_fat: 0.19
+saturated_fat: 0.03
+sodium: 38.7
+total_carbohydrate: 0.67
+dietary_fiber: 0.47
+sugars: 0.1
+protein: 0.18
+potassium: 26.33
+p: 4.05
+
+cheddar shredded
+calories: 458.14
+total_fat: 37.77
+saturated_fat: 21.4
+cholesterol: 112.27
+sodium: 740.5
+total_carbohydrate: 3.5
+sugars: 0.54
+protein: 25.93
+potassium: 86.18
+p: 515.97
+
+bbq sauce
+calories: 242.95
+total_fat: 0.89
+saturated_fat: 0.06
+sodium: 1450.64
+total_carbohydrate: 57.59
+dietary_fiber: 1.27
+sugars: 46.95
+protein: 1.16
+potassium: 327.7
+p: 28.25
+
+green onions
+calories: 9.6
+total_fat: 0.06
+saturated_fat: 0.01
+sodium: 4.8
+total_carbohydrate: 2.2
+dietary_fiber: 0.78
+sugars: 0.7
+protein: 0.55
+potassium: 82.8
+p: 11.1
+
+jalapeo
+calories: 26.1
+total_fat: 0.33
+saturated_fat: 0.08
+sodium: 2.7
+total_carbohydrate: 5.85
+dietary_fiber: 2.52
+sugars: 3.71
+protein: 0.82
+potassium: 223.2
+p: 23.4
+
+

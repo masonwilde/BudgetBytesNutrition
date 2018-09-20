@@ -34,3 +34,57 @@ protein: 3.2075
 potassium: 57.955
 p: 59.5275
 
+
+Nutrients by Ingredient:
+
+whole wheat pita breads
+calories: 335.36
+total_fat: 2.19
+saturated_fat: 0.19
+sodium: 674.56
+total_carbohydrate: 71.54
+dietary_fiber: 7.81
+sugars: 3.67
+protein: 12.54
+potassium: 217.6
+p: 230.4
+
+butter
+calories: 203.63
+total_fat: 23.04
+saturated_fat: 14.59
+cholesterol: 61.06
+sodium: 182.61
+total_carbohydrate: 0.02
+sugars: 0.02
+protein: 0.24
+potassium: 6.82
+p: 6.82
+
+vanilla extract
+calories: 3.02
+sodium: 0.09
+total_carbohydrate: 0.13
+sugars: 0.13
+potassium: 1.55
+p: 0.06
+
+sugar
+calories: 48.57
+sodium: 0.13
+total_carbohydrate: 12.55
+sugars: 12.52
+potassium: 0.25
+
+cinnamon
+calories: 3.21
+total_fat: 0.02
+sodium: 0.13
+total_carbohydrate: 1.05
+dietary_fiber: 0.69
+sugars: 0.03
+protein: 0.05
+potassium: 5.6
+p: 0.83
+
+

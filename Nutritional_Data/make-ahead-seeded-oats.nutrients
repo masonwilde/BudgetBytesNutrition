@@ -38,3 +38,159 @@ protein: 16.9875
 potassium: 697.6600000000001
 p: 569.7550000000001
 
+
+Nutrients by Ingredient:
+
+rolled oats
+calories: 409.67
+total_fat: 7.05
+saturated_fat: 1.2
+sodium: 6.49
+total_carbohydrate: 73.18
+dietary_fiber: 10.92
+sugars: 1.07
+protein: 14.21
+potassium: 391.3
+p: 443.18
+
+flaxseed
+calories: 184.76
+total_fat: 14.59
+saturated_fat: 1.27
+sodium: 10.38
+total_carbohydrate: 9.99
+dietary_fiber: 9.45
+sugars: 0.54
+protein: 6.33
+potassium: 281.3
+p: 222.13
+
+hemp seeds
+calories: 221.2
+total_fat: 19.5
+saturated_fat: 1.84
+sodium: 2
+total_carbohydrate: 3.47
+dietary_fiber: 1.6
+sugars: 0.6
+protein: 12.62
+potassium: 480
+p: 660
+
+chia seeds
+calories: 116.64
+total_fat: 7.38
+saturated_fat: 0.8
+sodium: 3.84
+total_carbohydrate: 10.11
+dietary_fiber: 8.26
+protein: 3.97
+potassium: 97.68
+p: 206.4
+
+cinnamon
+calories: 6.42
+total_fat: 0.03
+saturated_fat: 0.01
+sodium: 0.26
+total_carbohydrate: 2.1
+dietary_fiber: 1.38
+sugars: 0.06
+protein: 0.1
+potassium: 11.21
+p: 1.66
+
+salt
+sodium: 132.18
+potassium: 0.03
+
+water
+sodium: 25.28
+
+milk
+calories: 124.95
+total_fat: 4.7
+saturated_fat: 2.93
+cholesterol: 19.6
+sodium: 127.4
+total_carbohydrate: 12.18
+protein: 8.53
+potassium: 396.9
+p: 245
+
+dairy milk
+calories: 122
+total_fat: 4.83
+saturated_fat: 3.07
+cholesterol: 19.52
+sodium: 114.68
+total_carbohydrate: 11.71
+sugars: 12.35
+protein: 8.05
+potassium: 341.6
+p: 224.48
+
+sweetener
+calories: 3.36
+total_carbohydrate: 0.91
+sugars: 0.8
+potassium: 0.04
+
+fresh fruit
+calories: 96.62
+total_fat: 0.47
+saturated_fat: 0.07
+sodium: 2.65
+total_carbohydrate: 24.48
+dietary_fiber: 3.26
+sugars: 16.45
+protein: 1.36
+potassium: 364.17
+p: 35.49
+
+nuts
+calories: 172.08
+total_fat: 15.29
+saturated_fat: 2.47
+sodium: 77.4
+total_carbohydrate: 5.97
+dietary_fiber: 1.98
+sugars: 1.18
+protein: 5.68
+potassium: 179.17
+p: 129.28
+
+peanut butter
+calories: 188.16
+total_fat: 15.85
+saturated_fat: 3.05
+sodium: 152.32
+total_carbohydrate: 7.67
+dietary_fiber: 1.82
+sugars: 2.08
+protein: 7.02
+potassium: 189.44
+p: 107.2
+
+jam
+calories: 55.6
+total_fat: 0.01
+sodium: 6.4
+total_carbohydrate: 13.77
+dietary_fiber: 0.22
+sugars: 9.7
+protein: 0.07
+potassium: 15.4
+p: 3.8
+
+maple syrup
+calories: 52
+total_fat: 0.01
+sodium: 2.4
+total_carbohydrate: 13.41
+sugars: 12.09
+protein: 0.01
+potassium: 42.4
+p: 0.4
+
+

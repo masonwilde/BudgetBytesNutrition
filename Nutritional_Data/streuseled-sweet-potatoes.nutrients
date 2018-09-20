@@ -38,3 +38,104 @@ protein: 3.0025
 potassium: 252.4325
 p: 67.24499999999999
 
+
+Nutrients by Ingredient:
+
+sweet potatoes
+calories: 229.52
+total_fat: 0.42
+saturated_fat: 0.09
+sodium: 81.54
+total_carbohydrate: 53.51
+dietary_fiber: 7.55
+sugars: 17.33
+protein: 4.14
+potassium: 694.6
+p: 96.64
+
+olive oil
+calories: 119.34
+total_fat: 13.5
+saturated_fat: 1.86
+sodium: 0.27
+potassium: 0.14
+
+maple syrup
+calories: 68.79
+total_fat: 0.02
+sodium: 3.18
+total_carbohydrate: 17.74
+sugars: 16
+protein: 0.01
+potassium: 56.09
+p: 0.53
+
+all purpose flour
+calories: 56.88
+total_fat: 0.15
+saturated_fat: 0.02
+sodium: 0.31
+total_carbohydrate: 11.92
+dietary_fiber: 0.42
+sugars: 0.04
+protein: 1.61
+potassium: 16.72
+p: 16.88
+
+rolled oats
+calories: 38.5
+total_fat: 0.66
+saturated_fat: 0.11
+sodium: 0.61
+total_carbohydrate: 6.88
+dietary_fiber: 1.03
+sugars: 0.1
+protein: 1.34
+potassium: 36.78
+p: 41.65
+
+brown sugar
+calories: 173.38
+sodium: 12.78
+total_carbohydrate: 44.75
+sugars: 44.27
+protein: 0.05
+potassium: 60.68
+p: 1.83
+
+chopped walnuts
+calories: 196.2
+total_fat: 19.56
+saturated_fat: 1.84
+sodium: 0.6
+total_carbohydrate: 4.11
+dietary_fiber: 2.01
+sugars: 0.78
+protein: 4.57
+potassium: 132.3
+p: 103.8
+
+butter
+calories: 203.63
+total_fat: 23.04
+saturated_fat: 14.59
+cholesterol: 61.06
+sodium: 182.61
+total_carbohydrate: 0.02
+sugars: 0.02
+protein: 0.24
+potassium: 6.82
+p: 6.82
+
+cinnamon
+calories: 3.21
+total_fat: 0.02
+sodium: 0.13
+total_carbohydrate: 1.05
+dietary_fiber: 0.69
+sugars: 0.03
+protein: 0.05
+potassium: 5.6
+p: 0.83
+
+

@@ -34,3 +34,63 @@ protein: 44.11500000000001
 potassium: 1809.4575000000002
 p: 465.70500000000004
 
+
+Nutrients by Ingredient:
+
+italian sausage
+calories: 1560.36
+total_fat: 123.88
+saturated_fat: 46.24
+cholesterol: 258.55
+sodium: 3370.19
+total_carbohydrate: 19.37
+dietary_fiber: 0.45
+sugars: 8.44
+protein: 86.73
+potassium: 1378.92
+p: 771.11
+
+olive oil
+calories: 119.34
+total_fat: 13.5
+saturated_fat: 1.86
+sodium: 0.27
+potassium: 0.14
+
+cannellini beans
+calories: 1182.2
+total_fat: 2.98
+saturated_fat: 0.77
+sodium: 51.03
+total_carbohydrate: 213.39
+dietary_fiber: 53.58
+sugars: 2.89
+protein: 82.75
+potassium: 4771.31
+p: 961.07
+
+spinach
+calories: 52.16
+total_fat: 0.59
+saturated_fat: 0.1
+sodium: 158.76
+total_carbohydrate: 8.51
+dietary_fiber: 5.44
+sugars: 0.98
+protein: 6.74
+potassium: 1056.89
+p: 127.01
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+

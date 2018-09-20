@@ -37,3 +37,72 @@ protein: 8.0125
 potassium: 126.56
 p: 104.44750000000002
 
+
+Nutrients by Ingredient:
+
+all purpose flour
+calories: 910
+total_fat: 2.45
+saturated_fat: 0.39
+sodium: 5
+total_carbohydrate: 190.78
+dietary_fiber: 6.75
+sugars: 0.68
+protein: 25.83
+potassium: 267.5
+p: 270
+
+kosher salt
+sodium: 2325.48
+potassium: 0.48
+
+sugar
+calories: 48.57
+sodium: 0.13
+total_carbohydrate: 12.55
+sugars: 12.52
+potassium: 0.25
+
+yeast
+calories: 14.56
+total_fat: 0.34
+saturated_fat: 0.04
+sodium: 2.28
+total_carbohydrate: 1.85
+dietary_fiber: 1.21
+protein: 1.81
+potassium: 42.78
+p: 28.54
+
+water
+sodium: 4.73
+
+buttermilk
+calories: 49
+total_fat: 1.08
+saturated_fat: 0.67
+cholesterol: 4.9
+sodium: 232.75
+total_carbohydrate: 5.87
+sugars: 5.87
+protein: 4.05
+potassium: 184.98
+p: 109.03
+
+butter
+calories: 305.44
+total_fat: 34.55
+saturated_fat: 21.88
+cholesterol: 91.59
+sodium: 273.92
+total_carbohydrate: 0.03
+sugars: 0.03
+protein: 0.36
+potassium: 10.22
+p: 10.22
+
+salt
+sodium: 132.18
+potassium: 0.03
+
+

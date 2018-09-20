@@ -37,3 +37,88 @@ protein: 18.9
 potassium: 832.76
 p: 199.70999999999998
 
+
+Nutrients by Ingredient:
+
+ground beef
+calories: 616.89
+total_fat: 39.37
+saturated_fat: 14.85
+cholesterol: 201.85
+sodium: 206.38
+protein: 61.23
+potassium: 861.82
+p: 512.56
+
+olive oil
+calories: 119.34
+total_fat: 13.5
+saturated_fat: 1.86
+sodium: 0.27
+potassium: 0.14
+
+onion
+calories: 26.4
+total_fat: 0.11
+saturated_fat: 0.02
+sodium: 1.8
+total_carbohydrate: 6.09
+dietary_fiber: 0.84
+sugars: 2.84
+protein: 0.82
+potassium: 99.6
+p: 21
+
+butter
+calories: 203.63
+total_fat: 23.04
+saturated_fat: 14.59
+cholesterol: 61.06
+sodium: 182.61
+total_carbohydrate: 0.02
+sugars: 0.02
+protein: 0.24
+potassium: 6.82
+p: 6.82
+
+crushed tomatoes
+calories: 254.02
+total_fat: 2.22
+saturated_fat: 0.32
+sodium: 1476.47
+total_carbohydrate: 57.87
+dietary_fiber: 15.08
+sugars: 34.93
+protein: 13.02
+potassium: 2325.83
+p: 254.02
+
+italian seasoning
+calories: 1.12
+total_fat: 0.04
+saturated_fat: 0.01
+sodium: 0.17
+total_carbohydrate: 0.25
+dietary_fiber: 0.15
+sugars: 0.01
+protein: 0.05
+potassium: 6.14
+p: 0.81
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+

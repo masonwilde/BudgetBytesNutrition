@@ -44,3 +44,158 @@ protein: 14.1275
 potassium: 208.8325
 p: 228.16000000000003
 
+
+Nutrients by Ingredient:
+
+brown sugar
+calories: 62.94
+sodium: 4.64
+total_carbohydrate: 16.25
+sugars: 16.07
+protein: 0.02
+potassium: 22.03
+p: 0.66
+
+white sugar
+calories: 72.85
+sodium: 0.19
+total_carbohydrate: 18.82
+sugars: 18.79
+potassium: 0.38
+
+salt
+sodium: 279.06
+potassium: 0.06
+
+butter
+calories: 203.63
+total_fat: 23.04
+saturated_fat: 14.59
+cholesterol: 61.06
+sodium: 182.61
+total_carbohydrate: 0.02
+sugars: 0.02
+protein: 0.24
+potassium: 6.82
+p: 6.82
+
+all purpose flour
+calories: 170.63
+total_fat: 0.46
+saturated_fat: 0.07
+sodium: 0.94
+total_carbohydrate: 35.77
+dietary_fiber: 1.27
+sugars: 0.13
+protein: 4.84
+potassium: 50.16
+p: 50.63
+
+flour
+calories: 910
+total_fat: 2.45
+saturated_fat: 0.39
+sodium: 5
+total_carbohydrate: 190.78
+dietary_fiber: 6.75
+sugars: 0.68
+protein: 25.83
+potassium: 267.5
+p: 270
+
+white sugar
+calories: 774
+sodium: 2
+total_carbohydrate: 199.96
+sugars: 199.6
+potassium: 4
+
+baking powder
+calories: 3.66
+sodium: 731.4
+total_carbohydrate: 1.91
+dietary_fiber: 0.01
+potassium: 1.38
+p: 151.18
+
+baking soda
+sodium: 629.28
+
+salt
+sodium: 2325.48
+potassium: 0.48
+
+butter
+calories: 407.26
+total_fat: 46.07
+saturated_fat: 29.18
+cholesterol: 122.12
+sodium: 365.22
+total_carbohydrate: 0.03
+sugars: 0.03
+protein: 0.48
+potassium: 13.63
+p: 13.63
+
+large egg
+calories: 71.5
+total_fat: 4.76
+saturated_fat: 1.56
+cholesterol: 186
+sodium: 71
+total_carbohydrate: 0.36
+sugars: 0.19
+protein: 6.28
+potassium: 69
+p: 99
+
+cranberries
+calories: 72.45
+total_fat: 0.2
+saturated_fat: 0.01
+sodium: 3.15
+total_carbohydrate: 18.85
+dietary_fiber: 5.67
+sugars: 6.73
+protein: 0.72
+potassium: 126
+p: 17.33
+
+butter
+calories: 101.81
+total_fat: 11.52
+saturated_fat: 7.29
+cholesterol: 30.53
+sodium: 91.31
+total_carbohydrate: 0.01
+sugars: 0.01
+protein: 0.12
+potassium: 3.41
+p: 3.41
+
+flour
+calories: 455
+total_fat: 1.23
+saturated_fat: 0.19
+sodium: 2.5
+total_carbohydrate: 95.39
+dietary_fiber: 3.38
+sugars: 0.34
+protein: 12.91
+potassium: 133.75
+p: 135
+
+muffin
+calories: 423.75
+total_fat: 18.16
+saturated_fat: 3.21
+cholesterol: 33.9
+sodium: 379.68
+total_carbohydrate: 59.89
+dietary_fiber: 1.24
+sugars: 35.56
+protein: 5.07
+potassium: 136.73
+p: 164.98
+
+

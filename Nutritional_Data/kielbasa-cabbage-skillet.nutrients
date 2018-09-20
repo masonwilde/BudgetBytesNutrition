@@ -40,3 +40,112 @@ protein: 16.2375
 potassium: 814.1974999999999
 p: 306.67
 
+
+Nutrients by Ingredient:
+
+olive oil
+calories: 477.36
+total_fat: 54
+saturated_fat: 7.46
+sodium: 1.08
+potassium: 0.54
+
+red wine vinegar
+calories: 5.66
+sodium: 2.38
+total_carbohydrate: 0.08
+protein: 0.01
+potassium: 11.62
+p: 2.38
+
+ground mustard
+calories: 48.01
+total_fat: 3.42
+saturated_fat: 0.19
+sodium: 1.23
+total_carbohydrate: 2.65
+dietary_fiber: 1.15
+sugars: 0.64
+protein: 2.46
+potassium: 69.74
+p: 78.25
+
+garlic powder
+calories: 2.57
+total_fat: 0.01
+sodium: 0.47
+total_carbohydrate: 0.56
+dietary_fiber: 0.07
+sugars: 0.02
+protein: 0.13
+potassium: 9.25
+p: 3.21
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+olive oil
+calories: 119.34
+total_fat: 13.5
+saturated_fat: 1.86
+sodium: 0.27
+potassium: 0.14
+
+kielbasa
+calories: 1336.77
+total_fat: 117.73
+saturated_fat: 39.25
+cholesterol: 289.57
+sodium: 4212.6
+total_carbohydrate: 19.95
+sugars: 9.48
+protein: 49.39
+potassium: 1213.8
+p: 809.2
+
+yellow onion
+calories: 41.36
+total_fat: 0.18
+saturated_fat: 0.03
+sodium: 2.82
+total_carbohydrate: 9.54
+dietary_fiber: 1.32
+sugars: 4.45
+protein: 1.28
+potassium: 156.04
+p: 32.9
+
+cabbage
+calories: 207
+total_fat: 0.54
+sodium: 72
+total_carbohydrate: 49.59
+dietary_fiber: 17.1
+sugars: 25.11
+protein: 11.43
+potassium: 1764
+p: 297
+
+salt and pepper
+calories: 0.18
+sodium: 73.78
+total_carbohydrate: 0.05
+dietary_fiber: 0.02
+protein: 0.01
+potassium: 0.97
+p: 0.11
+
+

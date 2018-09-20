@@ -36,3 +36,89 @@ protein: 28.994999999999997
 potassium: 675.6049999999999
 p: 514.5150000000001
 
+
+Nutrients by Ingredient:
+
+broccoli florets
+calories: 158.76
+total_fat: 1.86
+saturated_fat: 0.36
+sodium: 185.97
+total_carbohydrate: 32.57
+dietary_fiber: 14.97
+sugars: 6.3
+protein: 10.8
+potassium: 1329.02
+p: 303.91
+
+bacon
+calories: 530.71
+total_fat: 39.79
+saturated_fat: 13.57
+cholesterol: 112.27
+sodium: 1909.66
+total_carbohydrate: 1.93
+protein: 38.47
+potassium: 565.87
+p: 439.99
+
+large eggs
+calories: 286
+total_fat: 19.02
+saturated_fat: 6.25
+cholesterol: 744
+sodium: 284
+total_carbohydrate: 1.44
+sugars: 0.74
+protein: 25.12
+potassium: 276
+p: 396
+
+milk
+calories: 124.95
+total_fat: 4.7
+saturated_fat: 2.93
+cholesterol: 19.6
+sodium: 127.4
+total_carbohydrate: 12.18
+protein: 8.53
+potassium: 396.9
+p: 245
+
+grated parmesan
+calories: 105
+total_fat: 6.96
+saturated_fat: 3.84
+cholesterol: 21.5
+sodium: 451
+total_carbohydrate: 3.48
+sugars: 0.02
+protein: 7.11
+potassium: 45
+p: 156.75
+
+seasoning salt
+calories: 0.62
+total_fat: 0.02
+saturated_fat: 0.01
+sodium: 379.92
+total_carbohydrate: 0.14
+dietary_fiber: 0.08
+sugars: 0.01
+protein: 0.02
+potassium: 3.45
+p: 0.44
+
+cheddar
+calories: 458.14
+total_fat: 37.77
+saturated_fat: 21.4
+cholesterol: 112.27
+sodium: 740.5
+total_carbohydrate: 3.5
+sugars: 0.54
+protein: 25.93
+potassium: 86.18
+p: 515.97
+
+

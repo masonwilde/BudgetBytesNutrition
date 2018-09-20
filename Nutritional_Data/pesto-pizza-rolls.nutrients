@@ -39,3 +39,99 @@ protein: 19.2125
 potassium: 330.8625
 p: 325.78
 
+
+Nutrients by Ingredient:
+
+water
+sodium: 7.1
+
+yeast
+calories: 26
+total_fat: 0.61
+saturated_fat: 0.08
+sodium: 4.08
+total_carbohydrate: 3.3
+dietary_fiber: 2.15
+protein: 3.24
+potassium: 76.4
+p: 50.96
+
+sugar
+calories: 24.28
+sodium: 0.06
+total_carbohydrate: 6.27
+sugars: 6.26
+potassium: 0.13
+
+olive oil
+calories: 119.34
+total_fat: 13.5
+saturated_fat: 1.86
+sodium: 0.27
+potassium: 0.14
+
+flour
+calories: 910
+total_fat: 2.45
+saturated_fat: 0.39
+sodium: 5
+total_carbohydrate: 190.78
+dietary_fiber: 6.75
+sugars: 0.68
+protein: 25.83
+potassium: 267.5
+p: 270
+
+salt
+sodium: 2325.48
+potassium: 0.48
+
+pesto
+calories: 646.62
+total_fat: 63.61
+saturated_fat: 11.73
+cholesterol: 30
+sodium: 631.79
+total_carbohydrate: 9.41
+dietary_fiber: 1.21
+sugars: 0.95
+protein: 13.87
+potassium: 265.75
+p: 368.33
+
+pepperoni
+calories: 283.92
+total_fat: 26.07
+saturated_fat: 9.98
+cholesterol: 54.64
+sodium: 891.19
+total_carbohydrate: 0.66
+protein: 10.84
+potassium: 154.35
+p: 89.01
+
+shredded mozzarella
+calories: 261.44
+total_fat: 16.96
+saturated_fat: 9.87
+cholesterol: 55.9
+sodium: 586.52
+total_carbohydrate: 6.93
+sugars: 1.93
+protein: 20.32
+potassium: 112.66
+p: 461.82
+
+pizza sauce
+calories: 68.04
+total_fat: 1.45
+saturated_fat: 0.58
+sodium: 438.48
+total_carbohydrate: 10.91
+dietary_fiber: 2.52
+sugars: 4.76
+protein: 2.75
+potassium: 446.04
+p: 63
+
+

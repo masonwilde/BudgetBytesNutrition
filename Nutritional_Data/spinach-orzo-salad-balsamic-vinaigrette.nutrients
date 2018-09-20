@@ -38,3 +38,104 @@ protein: 8.4575
 potassium: 499.35
 p: 155.76250000000002
 
+
+Nutrients by Ingredient:
+
+olive oil
+calories: 477.36
+total_fat: 54
+saturated_fat: 7.46
+sodium: 1.08
+potassium: 0.54
+
+balsamic vinegar
+calories: 28.16
+sodium: 7.36
+total_carbohydrate: 5.45
+sugars: 4.78
+protein: 0.16
+potassium: 35.84
+p: 6.08
+
+clove garlic
+calories: 4.47
+total_fat: 0.02
+sodium: 0.51
+total_carbohydrate: 0.99
+dietary_fiber: 0.06
+sugars: 0.03
+protein: 0.19
+potassium: 12.03
+p: 4.59
+
+dijon mustard
+calories: 3.12
+total_fat: 0.17
+saturated_fat: 0.01
+sodium: 135.04
+total_carbohydrate: 0.3
+dietary_fiber: 0.21
+sugars: 0.05
+protein: 0.19
+potassium: 7.92
+p: 5.61
+
+salt and pepper to taste
+calories: 0.72
+total_fat: 0.01
+sodium: 295.49
+total_carbohydrate: 0.18
+dietary_fiber: 0.07
+protein: 0.03
+potassium: 3.89
+p: 0.46
+
+orzo
+calories: 510.98
+total_fat: 2.08
+saturated_fat: 0.38
+sodium: 11.83
+total_carbohydrate: 102.84
+dietary_fiber: 4.41
+sugars: 3.68
+protein: 17.96
+potassium: 307.14
+p: 260.31
+
+baby spinach
+calories: 27.6
+total_fat: 0.47
+saturated_fat: 0.08
+sodium: 94.8
+total_carbohydrate: 4.36
+dietary_fiber: 2.64
+sugars: 0.5
+protein: 3.43
+potassium: 669.6
+p: 58.8
+
+sun dried tomatoes
+calories: 69.66
+total_fat: 0.8
+saturated_fat: 0.12
+sodium: 28.89
+total_carbohydrate: 15.06
+dietary_fiber: 3.32
+sugars: 10.15
+protein: 3.81
+potassium: 925.29
+p: 96.12
+
+feta
+calories: 149.69
+total_fat: 12.07
+saturated_fat: 8.47
+cholesterol: 50.46
+sodium: 519.94
+total_carbohydrate: 2.32
+sugars: 2.32
+protein: 8.06
+potassium: 35.15
+p: 191.08
+
+

@@ -43,3 +43,159 @@ protein: 5.892499999999999
 potassium: 375.48750000000007
 p: 110.23500000000001
 
+
+Nutrients by Ingredient:
+
+butter
+calories: 33.92
+total_fat: 3.84
+saturated_fat: 2.43
+cholesterol: 10.17
+sodium: 30.42
+protein: 0.04
+potassium: 1.14
+p: 1.14
+
+whole milk
+calories: 27.45
+total_fat: 1.46
+saturated_fat: 0.84
+cholesterol: 4.5
+sodium: 19.35
+total_carbohydrate: 2.16
+sugars: 2.27
+protein: 1.42
+potassium: 59.4
+p: 37.8
+
+maple syrup
+calories: 17.2
+sodium: 0.79
+total_carbohydrate: 4.43
+sugars: 4
+potassium: 14.02
+p: 0.13
+
+cinnamon
+calories: 1.61
+total_fat: 0.01
+sodium: 0.07
+total_carbohydrate: 0.52
+dietary_fiber: 0.35
+sugars: 0.01
+protein: 0.03
+potassium: 2.8
+p: 0.42
+
+vanilla extract
+calories: 3.02
+sodium: 0.09
+total_carbohydrate: 0.13
+sugars: 0.13
+potassium: 1.55
+p: 0.06
+
+ground nutmeg
+calories: 0.74
+total_fat: 0.05
+saturated_fat: 0.04
+sodium: 0.02
+total_carbohydrate: 0.07
+dietary_fiber: 0.03
+protein: 0.01
+potassium: 0.5
+p: 0.3
+
+large egg
+calories: 71.5
+total_fat: 4.76
+saturated_fat: 1.56
+cholesterol: 186
+sodium: 71
+total_carbohydrate: 0.36
+sugars: 0.19
+protein: 6.28
+potassium: 69
+p: 99
+
+bread
+calories: 106.4
+total_fat: 1.33
+saturated_fat: 0.28
+sodium: 196
+total_carbohydrate: 19.77
+dietary_fiber: 1.08
+sugars: 2.27
+protein: 3.54
+potassium: 50.4
+p: 39.2
+
+berries
+calories: 64.72
+total_fat: 0.61
+saturated_fat: 0.03
+sodium: 1.42
+total_carbohydrate: 15.41
+dietary_fiber: 5.55
+sugars: 8.66
+protein: 1.4
+potassium: 191.38
+p: 30.4
+
+bananas
+calories: 133.5
+total_fat: 0.5
+saturated_fat: 0.17
+sodium: 1.5
+total_carbohydrate: 34.26
+dietary_fiber: 3.9
+sugars: 18.35
+protein: 1.64
+potassium: 537
+p: 33
+
+nuts
+calories: 172.08
+total_fat: 15.29
+saturated_fat: 2.47
+sodium: 77.4
+total_carbohydrate: 5.97
+dietary_fiber: 1.98
+sugars: 1.18
+protein: 5.68
+potassium: 179.17
+p: 129.28
+
+powdered sugar
+calories: 466.8
+sodium: 2.4
+total_carbohydrate: 119.72
+sugars: 117.37
+potassium: 2.4
+
+peanut butter chocolate
+calories: 87.55
+total_fat: 5.19
+saturated_fat: 1.82
+cholesterol: 1.02
+sodium: 60.69
+total_carbohydrate: 9.41
+dietary_fiber: 0.61
+sugars: 8.02
+protein: 1.74
+potassium: 58.31
+p: 27.37
+
+chips
+calories: 148.96
+total_fat: 9.51
+saturated_fat: 0.95
+sodium: 147.56
+total_carbohydrate: 15.07
+dietary_fiber: 0.87
+sugars: 0.09
+protein: 1.79
+potassium: 334.88
+p: 42.84
+
+

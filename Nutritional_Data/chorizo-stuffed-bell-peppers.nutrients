@@ -38,3 +38,116 @@ protein: 31.779999999999998
 potassium: 772.4624999999999
 p: 412.67249999999996
 
+
+Nutrients by Ingredient:
+
+chorizo
+calories: 1031.92
+total_fat: 86.79
+saturated_fat: 32.61
+cholesterol: 199.58
+sodium: 2800.93
+total_carbohydrate: 4.22
+protein: 54.66
+potassium: 902.65
+p: 340.19
+
+cooked rice
+calories: 410.8
+total_fat: 0.88
+saturated_fat: 0.24
+sodium: 3.16
+total_carbohydrate: 89.02
+dietary_fiber: 1.26
+sugars: 0.16
+protein: 8.5
+potassium: 110.6
+p: 135.88
+
+diced tomatoes with green chiles
+calories: 42.53
+total_fat: 0.23
+saturated_fat: 0.03
+sodium: 1136.84
+total_carbohydrate: 10.26
+protein: 1.96
+potassium: 303.35
+p: 39.69
+
+can black beans
+calories: 386.98
+total_fat: 1.23
+saturated_fat: 0.32
+sodium: 1632.96
+total_carbohydrate: 70.38
+dietary_fiber: 29.34
+sugars: 0.98
+protein: 25.64
+potassium: 1309.77
+p: 459.27
+
+chili powder
+calories: 11.28
+total_fat: 0.57
+saturated_fat: 0.1
+sodium: 114.68
+total_carbohydrate: 1.99
+dietary_fiber: 1.39
+sugars: 0.29
+protein: 0.54
+potassium: 78
+p: 12
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+monterey jack
+calories: 422.98
+total_fat: 34.34
+saturated_fat: 21.62
+cholesterol: 100.93
+sodium: 680.4
+total_carbohydrate: 0.77
+sugars: 0.57
+protein: 27.76
+potassium: 91.85
+p: 503.5
+
+cheese shredded
+calories: 114.13
+total_fat: 9.41
+saturated_fat: 5.33
+cholesterol: 27.97
+sodium: 184.47
+total_carbohydrate: 0.87
+sugars: 0.14
+protein: 6.46
+potassium: 21.47
+p: 128.54
+
+green onions
+calories: 9.6
+total_fat: 0.06
+saturated_fat: 0.01
+sodium: 4.8
+total_carbohydrate: 2.2
+dietary_fiber: 0.78
+sugars: 0.7
+protein: 0.55
+potassium: 82.8
+p: 11.1
+
+bell peppers
+calories: 31.92
+total_fat: 0.23
+saturated_fat: 0.03
+sodium: 2.28
+total_carbohydrate: 7.64
+dietary_fiber: 1.37
+sugars: 3.64
+protein: 1.05
+potassium: 189.24
+p: 20.52
+
+

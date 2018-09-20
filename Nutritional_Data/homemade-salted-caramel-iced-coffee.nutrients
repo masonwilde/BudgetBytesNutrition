@@ -36,3 +36,62 @@ protein: 3.49
 potassium: 917.6800000000001
 p: 81.78999999999999
 
+
+Nutrients by Ingredient:
+
+granulated sugar
+calories: 774
+sodium: 2
+total_carbohydrate: 199.96
+sugars: 199.6
+potassium: 4
+
+water
+sodium: 2.37
+
+heavy cream
+calories: 606.9
+total_fat: 64.4
+saturated_fat: 41.11
+cholesterol: 201.71
+sodium: 48.2
+total_carbohydrate: 4.89
+sugars: 5.21
+protein: 5.07
+potassium: 169.58
+p: 103.53
+
+butter
+calories: 305.44
+total_fat: 34.55
+saturated_fat: 21.88
+cholesterol: 91.59
+sodium: 273.92
+total_carbohydrate: 0.03
+sugars: 0.03
+protein: 0.36
+potassium: 10.22
+p: 10.22
+
+sea salt
+sodium: 1162.74
+potassium: 0.24
+
+vanilla extract
+calories: 6.05
+sodium: 0.19
+total_carbohydrate: 0.27
+sugars: 0.27
+potassium: 3.11
+p: 0.13
+
+coffee
+calories: 71.09
+total_fat: 1.42
+saturated_fat: 0.14
+sodium: 142.19
+protein: 8.53
+potassium: 3483.57
+p: 213.28
+
+

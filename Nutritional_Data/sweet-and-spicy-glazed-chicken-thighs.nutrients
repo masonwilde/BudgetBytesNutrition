@@ -37,3 +37,84 @@ protein: 41.42
 potassium: 494.4775
 p: 348.12750000000005
 
+
+Nutrients by Ingredient:
+
+brown sugar
+calories: 173.38
+sodium: 12.78
+total_carbohydrate: 44.75
+sugars: 44.27
+protein: 0.05
+potassium: 60.68
+p: 1.83
+
+cayenne pepper
+calories: 2.86
+total_fat: 0.16
+saturated_fat: 0.03
+sodium: 0.27
+total_carbohydrate: 0.51
+dietary_fiber: 0.24
+sugars: 0.09
+protein: 0.11
+potassium: 18.13
+p: 2.64
+
+garlic powder
+calories: 5.13
+total_fat: 0.01
+sodium: 0.93
+total_carbohydrate: 1.13
+dietary_fiber: 0.14
+sugars: 0.04
+protein: 0.26
+potassium: 18.49
+p: 6.42
+
+paprika
+calories: 3.24
+total_fat: 0.15
+saturated_fat: 0.02
+sodium: 0.78
+total_carbohydrate: 0.62
+dietary_fiber: 0.4
+sugars: 0.12
+protein: 0.16
+potassium: 26.22
+p: 3.61
+
+salt
+sodium: 1162.74
+potassium: 0.24
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+olive oil
+calories: 119.34
+total_fat: 13.5
+saturated_fat: 1.86
+sodium: 0.27
+potassium: 0.14
+
+boneless skinless chicken thighs
+calories: 1115.84
+total_fat: 52.59
+saturated_fat: 16.36
+cholesterol: 830.07
+sodium: 1204.29
+protein: 164.86
+potassium: 1823.44
+p: 1374.38
+
+

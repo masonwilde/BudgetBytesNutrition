@@ -37,3 +37,110 @@ protein: 31.115
 potassium: 464.115
 p: 340.93749999999994
 
+
+Nutrients by Ingredient:
+
+cooked chicken
+calories: 594
+total_fat: 35.29
+saturated_fat: 9.88
+cholesterol: 253.8
+sodium: 191.7
+total_carbohydrate: 0.14
+protein: 64.69
+potassium: 550.8
+p: 483.3
+
+rotel
+calories: 42.53
+total_fat: 0.23
+saturated_fat: 0.03
+sodium: 1136.84
+total_carbohydrate: 10.26
+protein: 1.96
+potassium: 303.35
+p: 39.69
+
+tomatoes
+calories: 22.14
+total_fat: 0.25
+saturated_fat: 0.03
+sodium: 6.15
+total_carbohydrate: 4.78
+dietary_fiber: 1.48
+sugars: 3.23
+protein: 1.08
+potassium: 291.51
+p: 29.52
+
+pasta
+calories: 358.34
+total_fat: 2.11
+saturated_fat: 0.4
+sodium: 2.27
+total_carbohydrate: 69.99
+dietary_fiber: 4.08
+sugars: 1.27
+protein: 13.15
+potassium: 99.79
+p: 131.54
+
+chicken broth
+calories: 29.88
+total_fat: 1.05
+saturated_fat: 0.06
+cholesterol: 9.96
+sodium: 1847.58
+total_carbohydrate: 2.19
+sugars: 2.14
+protein: 3.19
+potassium: 89.64
+p: 19.92
+
+bbq sauce
+calories: 160.35
+total_fat: 0.59
+saturated_fat: 0.04
+sodium: 957.42
+total_carbohydrate: 38.01
+dietary_fiber: 0.84
+sugars: 30.99
+protein: 0.76
+potassium: 216.28
+p: 18.65
+
+shredded monterey jack cheese
+calories: 421.49
+total_fat: 34.22
+saturated_fat: 21.54
+cholesterol: 100.57
+sodium: 678
+total_carbohydrate: 0.77
+sugars: 0.56
+protein: 27.66
+potassium: 91.53
+p: 501.72
+
+bacon
+calories: 161.46
+total_fat: 12.11
+saturated_fat: 4.13
+cholesterol: 34.16
+sodium: 580.98
+total_carbohydrate: 0.59
+protein: 11.7
+potassium: 172.16
+p: 133.86
+
+green onions
+calories: 4.8
+total_fat: 0.03
+sodium: 2.4
+total_carbohydrate: 1.1
+dietary_fiber: 0.39
+sugars: 0.35
+protein: 0.27
+potassium: 41.4
+p: 5.55
+
+

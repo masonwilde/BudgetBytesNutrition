@@ -41,3 +41,129 @@ protein: 7.252500000000001
 potassium: 818.16
 p: 143.05499999999998
 
+
+Nutrients by Ingredient:
+
+salad oil
+calories: 238.68
+total_fat: 27
+saturated_fat: 3.73
+sodium: 0.54
+potassium: 0.27
+
+rice vinegar
+calories: 2.68
+sodium: 0.3
+total_carbohydrate: 0.01
+sugars: 0.01
+potassium: 0.3
+p: 0.6
+
+soy sauce
+calories: 25.44
+total_fat: 0.27
+saturated_fat: 0.04
+sodium: 2636.64
+total_carbohydrate: 2.37
+dietary_fiber: 0.38
+sugars: 0.19
+protein: 3.91
+potassium: 208.8
+p: 79.68
+
+sesame oil
+calories: 60
+total_fat: 6.79
+saturated_fat: 0.96
+
+brown sugar
+calories: 62.94
+sodium: 4.64
+total_carbohydrate: 16.25
+sugars: 16.07
+protein: 0.02
+potassium: 22.03
+p: 0.66
+
+fresh ginger
+calories: 1.6
+total_fat: 0.02
+sodium: 0.26
+total_carbohydrate: 0.36
+dietary_fiber: 0.04
+sugars: 0.03
+protein: 0.04
+potassium: 8.3
+p: 0.68
+
+sesame seeds
+calories: 22.6
+total_fat: 1.92
+saturated_fat: 0.27
+sodium: 0.44
+total_carbohydrate: 1.03
+dietary_fiber: 0.56
+protein: 0.68
+potassium: 19
+p: 25.52
+
+red cabbage
+calories: 261
+total_fat: 0.81
+saturated_fat: 0.1
+sodium: 252
+total_carbohydrate: 62.46
+dietary_fiber: 23.4
+sugars: 29.88
+protein: 13.59
+potassium: 2358
+p: 297
+
+carrot
+calories: 16.1
+total_fat: 0.08
+saturated_fat: 0.01
+sodium: 26.68
+total_carbohydrate: 3.78
+dietary_fiber: 1.38
+sugars: 1.59
+protein: 0.35
+potassium: 108.1
+p: 13.8
+
+red bell pepper
+calories: 31.92
+total_fat: 0.23
+saturated_fat: 0.03
+sodium: 2.28
+total_carbohydrate: 7.64
+dietary_fiber: 1.37
+sugars: 5
+protein: 1.05
+potassium: 189.24
+p: 20.52
+
+green onion
+calories: 2.4
+total_fat: 0.01
+sodium: 1.2
+total_carbohydrate: 0.55
+dietary_fiber: 0.2
+sugars: 0.17
+protein: 0.14
+potassium: 20.7
+p: 2.78
+
+edamame
+calories: 93.78
+total_fat: 4.03
+saturated_fat: 0.48
+sodium: 4.65
+total_carbohydrate: 6.91
+dietary_fiber: 4.03
+sugars: 1.69
+protein: 9.23
+potassium: 337.9
+p: 130.98
+
+

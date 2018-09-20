@@ -41,3 +41,132 @@ protein: 25.040000000000003
 potassium: 666.1825
 p: 385.2375
 
+
+Nutrients by Ingredient:
+
+olive oil
+calories: 238.68
+total_fat: 27
+saturated_fat: 3.73
+sodium: 0.54
+potassium: 0.27
+
+red wine vinegar
+calories: 2.83
+sodium: 1.19
+total_carbohydrate: 0.04
+protein: 0.01
+potassium: 5.81
+p: 1.19
+
+mustard
+calories: 4.58
+total_fat: 0.26
+saturated_fat: 0.02
+sodium: 84.35
+total_carbohydrate: 0.45
+dietary_fiber: 0.31
+sugars: 0.07
+protein: 0.29
+potassium: 11.61
+p: 8.25
+
+garlic powder
+calories: 2.57
+total_fat: 0.01
+sodium: 0.47
+total_carbohydrate: 0.56
+dietary_fiber: 0.07
+sugars: 0.02
+protein: 0.13
+potassium: 9.25
+p: 3.21
+
+salt
+sodium: 279.06
+potassium: 0.06
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+bell peppers
+calories: 95.76
+total_fat: 0.68
+saturated_fat: 0.1
+sodium: 6.84
+total_carbohydrate: 22.91
+dietary_fiber: 4.1
+sugars: 10.91
+protein: 3.15
+potassium: 567.72
+p: 61.56
+
+onion
+calories: 41.36
+total_fat: 0.18
+saturated_fat: 0.03
+sodium: 2.82
+total_carbohydrate: 9.54
+dietary_fiber: 1.32
+sugars: 4.45
+protein: 1.28
+potassium: 156.04
+p: 32.9
+
+bratwurst
+calories: 1415.25
+total_fat: 124.02
+saturated_fat: 42.49
+cholesterol: 314.5
+sodium: 3595.5
+total_carbohydrate: 12.11
+protein: 58.31
+potassium: 1479
+p: 884
+
+buns
+calories: 613.8
+total_fat: 8.6
+saturated_fat: 1.85
+sodium: 1086.8
+total_carbohydrate: 110.26
+dietary_fiber: 3.96
+sugars: 16.02
+protein: 21.49
+potassium: 268.4
+p: 222.2
+
+cheddar
+calories: 229.07
+total_fat: 18.89
+saturated_fat: 10.7
+cholesterol: 56.13
+sodium: 370.25
+total_carbohydrate: 1.75
+sugars: 0.27
+protein: 12.97
+potassium: 43.09
+p: 257.99
+
+mustard
+calories: 36.67
+total_fat: 2.04
+saturated_fat: 0.13
+sodium: 674.82
+total_carbohydrate: 3.56
+dietary_fiber: 2.44
+sugars: 0.56
+protein: 2.29
+potassium: 92.91
+p: 66.02
+
+

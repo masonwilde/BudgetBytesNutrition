@@ -36,3 +36,78 @@ protein: 3.655
 potassium: 103.53750000000001
 p: 64.1225
 
+
+Nutrients by Ingredient:
+
+cream cheese
+calories: 793.8
+total_fat: 78.11
+saturated_fat: 45.84
+cholesterol: 229.07
+sodium: 712.15
+total_carbohydrate: 12.52
+sugars: 8.53
+protein: 13.95
+potassium: 299.38
+p: 242.68
+
+fresh parsley
+calories: 2.74
+total_fat: 0.06
+saturated_fat: 0.01
+sodium: 4.26
+total_carbohydrate: 0.48
+dietary_fiber: 0.25
+sugars: 0.06
+protein: 0.23
+potassium: 42.1
+p: 4.41
+
+fresh cilantro
+calories: 0.46
+total_fat: 0.01
+sodium: 0.92
+total_carbohydrate: 0.07
+dietary_fiber: 0.06
+sugars: 0.02
+protein: 0.04
+potassium: 10.42
+p: 0.96
+
+green onion
+calories: 4.8
+total_fat: 0.03
+sodium: 2.4
+total_carbohydrate: 1.1
+dietary_fiber: 0.39
+sugars: 0.35
+protein: 0.27
+potassium: 41.4
+p: 5.55
+
+garlic powder
+calories: 1.23
+sodium: 0.22
+total_carbohydrate: 0.27
+dietary_fiber: 0.03
+sugars: 0.01
+protein: 0.06
+potassium: 4.44
+p: 1.54
+
+salt
+sodium: 279.06
+potassium: 0.06
+
+lemon juice
+calories: 2.55
+total_fat: 0.01
+sodium: 3.6
+total_carbohydrate: 0.84
+dietary_fiber: 0.11
+sugars: 0.23
+protein: 0.07
+potassium: 16.35
+p: 1.35
+
+

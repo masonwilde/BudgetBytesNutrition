@@ -33,3 +33,51 @@ protein: 6.8025
 potassium: 109.435
 p: 77.49249999999999
 
+
+Nutrients by Ingredient:
+
+spinach artichoke dip
+calories: 145.24
+total_fat: 12.27
+saturated_fat: 5.53
+cholesterol: 27.33
+sodium: 303.62
+total_carbohydrate: 6.18
+dietary_fiber: 2.32
+sugars: 1.26
+protein: 3.86
+potassium: 178.66
+p: 79.37
+
+flour tortillas
+calories: 104
+total_fat: 2.27
+saturated_fat: 0.56
+sodium: 152.96
+total_carbohydrate: 17.79
+dietary_fiber: 1.06
+protein: 2.78
+potassium: 41.92
+p: 39.68
+
+rotisserie chicken
+calories: 137.71
+total_fat: 6.12
+saturated_fat: 1.58
+cholesterol: 71.85
+sodium: 259.71
+total_carbohydrate: 0.01
+sugars: 0.01
+protein: 20.57
+potassium: 216.3
+p: 190.85
+
+hot sauce
+calories: 0.07
+sodium: 15.69
+total_carbohydrate: 0.01
+sugars: 0.01
+potassium: 0.86
+p: 0.07
+
+

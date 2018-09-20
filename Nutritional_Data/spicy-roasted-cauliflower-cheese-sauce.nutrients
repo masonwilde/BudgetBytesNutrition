@@ -39,3 +39,113 @@ protein: 10.965
 potassium: 309.355
 p: 234.615
 
+
+Nutrients by Ingredient:
+
+smoked paprika
+calories: 9.59
+total_fat: 0.44
+saturated_fat: 0.07
+sodium: 2.31
+total_carbohydrate: 1.84
+dietary_fiber: 1.19
+sugars: 0.35
+protein: 0.48
+potassium: 77.52
+p: 10.68
+
+garlic powder
+calories: 2.57
+total_fat: 0.01
+sodium: 0.47
+total_carbohydrate: 0.56
+dietary_fiber: 0.07
+sugars: 0.02
+protein: 0.13
+potassium: 9.25
+p: 3.21
+
+cayenne pepper
+calories: 0.69
+total_fat: 0.04
+saturated_fat: 0.01
+sodium: 0.06
+total_carbohydrate: 0.12
+dietary_fiber: 0.06
+sugars: 0.02
+protein: 0.03
+potassium: 4.35
+p: 0.63
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+cauliflower
+calories: 104.33
+total_fat: 2.04
+saturated_fat: 0.32
+sodium: 68.04
+total_carbohydrate: 18.64
+dietary_fiber: 10.43
+sugars: 9.43
+protein: 8.35
+potassium: 644.1
+p: 145.15
+
+olive oil
+calories: 119.34
+total_fat: 13.5
+saturated_fat: 1.86
+sodium: 0.27
+potassium: 0.14
+
+evaporated milk
+calories: 168.84
+total_fat: 9.53
+saturated_fat: 5.78
+cholesterol: 36.54
+sodium: 133.56
+total_carbohydrate: 12.65
+sugars: 12.65
+protein: 8.58
+potassium: 381.78
+p: 255.78
+
+butter
+calories: 101.81
+total_fat: 11.52
+saturated_fat: 7.29
+cholesterol: 30.53
+sodium: 91.31
+total_carbohydrate: 0.01
+sugars: 0.01
+protein: 0.12
+potassium: 3.41
+p: 3.41
+
+cheddar shredded
+calories: 458.14
+total_fat: 37.77
+saturated_fat: 21.4
+cholesterol: 112.27
+sodium: 740.5
+total_carbohydrate: 3.5
+sugars: 0.54
+protein: 25.93
+potassium: 86.18
+p: 515.97
+
+

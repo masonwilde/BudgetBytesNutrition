@@ -38,3 +38,123 @@ protein: 45.9925
 potassium: 1100.2275000000002
 p: 781.2550000000001
 
+
+Nutrients by Ingredient:
+
+black beans
+calories: 1122.66
+total_fat: 4.59
+saturated_fat: 1.18
+sodium: 8.51
+total_carbohydrate: 201.65
+dietary_fiber: 73.99
+sugars: 2.72
+protein: 75.35
+potassium: 3019.28
+p: 1190.7
+
+chipotle peppers in adobo sauce
+calories: 18.07
+total_fat: 0.9
+saturated_fat: 0.07
+cholesterol: 0.19
+sodium: 58.31
+total_carbohydrate: 2.39
+dietary_fiber: 0.59
+sugars: 0.95
+protein: 0.5
+potassium: 83.37
+p: 9.14
+
+sweet onion
+calories: 3.2
+total_fat: 0.01
+sodium: 0.8
+total_carbohydrate: 0.76
+dietary_fiber: 0.09
+sugars: 0.5
+protein: 0.08
+potassium: 11.9
+p: 2.7
+
+cumin
+calories: 3.94
+total_fat: 0.23
+saturated_fat: 0.02
+sodium: 1.76
+total_carbohydrate: 0.46
+dietary_fiber: 0.11
+sugars: 0.02
+protein: 0.19
+potassium: 18.77
+p: 5.24
+
+garlic powder
+calories: 2.57
+total_fat: 0.01
+sodium: 0.47
+total_carbohydrate: 0.56
+dietary_fiber: 0.07
+sugars: 0.02
+protein: 0.13
+potassium: 9.25
+p: 3.21
+
+chicken
+calories: 594
+total_fat: 35.29
+saturated_fat: 9.88
+cholesterol: 253.8
+sodium: 191.7
+total_carbohydrate: 0.14
+protein: 64.69
+potassium: 550.8
+p: 483.3
+
+vegetable broth
+calories: 13.2
+total_fat: 0.15
+saturated_fat: 0.07
+sodium: 666.6
+total_carbohydrate: 2.24
+sugars: 1.25
+protein: 0.51
+potassium: 44
+p: 6.6
+
+corn tortillas
+calories: 627.84
+total_fat: 8.21
+saturated_fat: 1.3
+sodium: 129.6
+total_carbohydrate: 128.56
+dietary_fiber: 18.14
+sugars: 2.53
+protein: 16.42
+potassium: 535.68
+p: 904.32
+
+cilantro
+calories: 1.84
+total_fat: 0.04
+sodium: 3.68
+total_carbohydrate: 0.29
+dietary_fiber: 0.22
+sugars: 0.07
+protein: 0.17
+potassium: 41.68
+p: 3.84
+
+cheese
+calories: 458.14
+total_fat: 37.77
+saturated_fat: 21.4
+cholesterol: 112.27
+sodium: 740.5
+total_carbohydrate: 3.5
+sugars: 0.54
+protein: 25.93
+potassium: 86.18
+p: 515.97
+
+
