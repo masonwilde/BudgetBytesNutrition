@@ -5,7 +5,7 @@ import sys
 import requests
 
 class Recipe:
-    def __init__(self, name="Unnamed Recipe", servings=1, ingredients=[], nutrients=None):
+    def __init__(self, name="Unnamed Recipe", url = "", servings=1, ingredients=[], nutrients=None):
 
         self.name = name
 
@@ -36,7 +36,7 @@ class Recipe:
             self.nutrients_per_serving = self.nutrients
 
     def __repr__(self):
-        val = "Recipe: %s\nServings: %s\n\nIngredients:\n" % (self.name, self.servings)
+        val = "Recipe: %s\nURL: %s\nServings: %s\n\nIngredients:\n" % (self.name, self.url, self.servings)
         for ingredient in self.ingredients:
             val += str(ingredient) + "\n"
         val += "\nNutrition:\n"
@@ -117,17 +117,21 @@ if __name__ == '__main__':
     response = requests.post("https://trackapi.nutritionix.com/v2/natural/nutrients", data=data_string, headers=headers)
     data = response.json()
 
-    recipe = Recipe(recipe_name, recipe_servings, ingredients=ingredients)
+    recipe = Recipe(recipe_name, recipe_page, recipe_servings, ingredients=ingredients)
 
-    food_nut_string="\nNutrients by Ingredient:\n\n"
-    for food in data['foods']:
-        food_nut_string = food_nut_string + food['food_name'] + "\n"
-        for key in recipe.nutrients:
-            if food["nf_" + key]:
-                food_nut_string = food_nut_string + key + ": " + str(food["nf_" + key]) + "\n"
-                recipe.nutrients[key] += food["nf_" + key]
-        food_nut_string = food_nut_string + "\n"
+    try:
+        food_nut_string="\nNutrients by Ingredient:\n\n"
+        for food in data['foods']:
+            food_nut_string = food_nut_string + food['food_name'] + "\n"
+            for key in recipe.nutrients:
+                if food["nf_" + key]:
+                    food_nut_string = food_nut_string + key + ": " + str(food["nf_" + key]) + "\n"
+                    recipe.nutrients[key] += food["nf_" + key]
+            food_nut_string = food_nut_string + "\n"
 
-    recipe.update()
+        recipe.update()
+    except:
+        print("URL: %s\nAn error occured..." % recipe_page)
+        exit()
     print(recipe)
     print(food_nut_string)
