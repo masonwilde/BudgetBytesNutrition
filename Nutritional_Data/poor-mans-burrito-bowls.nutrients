@@ -1,4 +1,5 @@
 Recipe: Poor Man’s Burrito Bowls
+URL: https://www.budgetbytes.com/poor-mans-burrito-bowls/
 Servings: 4
 
 Ingredients:
@@ -36,4 +37,106 @@ sugars: 5.9
 protein: 25.9
 potassium: 802.4100000000001
 p: 463.02500000000003
+
+
+Nutrients by Ingredient:
+
+cooked rice
+calories: 1232.4
+total_fat: 2.65
+saturated_fat: 0.73
+sodium: 9.48
+total_carbohydrate: 267.05
+dietary_fiber: 3.79
+sugars: 0.47
+protein: 25.5
+potassium: 331.8
+p: 407.64
+
+black beans
+calories: 454.08
+total_fat: 1.86
+saturated_fat: 0.48
+sodium: 3.44
+total_carbohydrate: 81.56
+dietary_fiber: 29.93
+sugars: 1.1
+protein: 30.48
+potassium: 1221.2
+p: 481.6
+
+cumin
+calories: 3.94
+total_fat: 0.23
+saturated_fat: 0.02
+sodium: 1.76
+total_carbohydrate: 0.46
+dietary_fiber: 0.11
+sugars: 0.02
+protein: 0.19
+potassium: 18.77
+p: 5.24
+
+garlic powder
+calories: 2.57
+total_fat: 0.01
+sodium: 0.47
+total_carbohydrate: 0.56
+dietary_fiber: 0.07
+sugars: 0.02
+protein: 0.13
+potassium: 9.25
+p: 3.21
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+salsa
+calories: 150.51
+total_fat: 0.88
+saturated_fat: 0.11
+sodium: 3690.09
+total_carbohydrate: 34.46
+dietary_fiber: 9.86
+sugars: 20.81
+protein: 7.89
+potassium: 1427.25
+p: 171.27
+
+shredded cheese
+calories: 687.2
+total_fat: 56.66
+saturated_fat: 32.09
+cholesterol: 168.4
+sodium: 1110.75
+total_carbohydrate: 5.26
+sugars: 0.82
+protein: 38.9
+potassium: 129.28
+p: 773.96
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+green onions
+calories: 4.8
+total_fat: 0.03
+sodium: 2.4
+total_carbohydrate: 1.1
+dietary_fiber: 0.39
+sugars: 0.35
+protein: 0.27
+potassium: 41.4
+p: 5.55
+
 

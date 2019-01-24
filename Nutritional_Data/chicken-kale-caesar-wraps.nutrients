@@ -1,4 +1,5 @@
 Recipe: Chicken Kale Caesar Wraps
+URL: https://www.budgetbytes.com/chicken-kale-caesar-wraps/
 Servings: 4
 
 Ingredients:
@@ -36,4 +37,104 @@ sugars: 5.890000000000001
 protein: 24.974999999999998
 potassium: 457.4625
 p: 305.3175
+
+
+Nutrients by Ingredient:
+
+kale
+calories: 36.4
+total_fat: 0.52
+saturated_fat: 0.07
+sodium: 29.9
+total_carbohydrate: 7.32
+dietary_fiber: 2.6
+sugars: 1.63
+protein: 2.47
+potassium: 296.4
+p: 36.4
+
+can chickpeas
+calories: 591.1
+total_fat: 11.78
+saturated_fat: 0.91
+sodium: 1046.12
+total_carbohydrate: 95.81
+dietary_fiber: 27.22
+sugars: 17.05
+protein: 29.98
+potassium: 535.82
+p: 361.46
+
+carrots
+calories: 32.2
+total_fat: 0.17
+saturated_fat: 0.03
+sodium: 53.36
+total_carbohydrate: 7.56
+dietary_fiber: 2.76
+sugars: 3.17
+protein: 0.7
+potassium: 216.2
+p: 27.6
+
+rotisserie chicken
+calories: 275.08
+total_fat: 12.23
+saturated_fat: 3.16
+cholesterol: 143.52
+sodium: 518.77
+total_carbohydrate: 0.03
+sugars: 0.03
+protein: 41.08
+potassium: 432.06
+p: 381.23
+
+grated parmesan
+calories: 105
+total_fat: 6.96
+saturated_fat: 3.84
+cholesterol: 21.5
+sodium: 451
+total_carbohydrate: 3.48
+sugars: 0.02
+protein: 7.11
+potassium: 45
+p: 156.75
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+caesar dressing
+calories: 318.43
+total_fat: 33.99
+saturated_fat: 5.16
+cholesterol: 22.91
+sodium: 710.29
+total_carbohydrate: 1.94
+dietary_fiber: 0.29
+sugars: 1.65
+protein: 1.27
+potassium: 17.04
+p: 11.16
+
+tortillas
+calories: 637
+total_fat: 13.92
+saturated_fat: 3.42
+sodium: 936.88
+total_carbohydrate: 108.98
+dietary_fiber: 6.47
+protein: 17.05
+potassium: 256.76
+p: 243.04
+
 

@@ -1,4 +1,5 @@
 Recipe: Freezer Ready Mini Pizzas
+URL: https://www.budgetbytes.com/freezer-ready-mini-pizzas/
 Servings: 4
 
 Ingredients:
@@ -32,4 +33,67 @@ sugars: 3.675
 protein: 16.189999999999998
 potassium: 420.28
 p: 328.96000000000004
+
+
+Nutrients by Ingredient:
+
+english muffins
+calories: 803.7
+total_fat: 6.16
+saturated_fat: 0.89
+sodium: 1586.88
+total_carbohydrate: 157.32
+dietary_fiber: 9.23
+protein: 26.33
+potassium: 448.02
+p: 454.86
+
+pizza sauce
+calories: 102.06
+total_fat: 2.17
+saturated_fat: 0.87
+sodium: 657.72
+total_carbohydrate: 16.37
+dietary_fiber: 3.78
+sugars: 7.14
+protein: 4.12
+potassium: 669.06
+p: 94.5
+
+shredded mozzarella
+calories: 392.16
+total_fat: 25.44
+saturated_fat: 14.8
+cholesterol: 83.85
+sodium: 879.78
+total_carbohydrate: 10.4
+sugars: 2.89
+protein: 30.48
+potassium: 168.99
+p: 692.73
+
+salad
+calories: 19.98
+total_fat: 0.2
+saturated_fat: 0.03
+sodium: 31.31
+total_carbohydrate: 4.21
+dietary_fiber: 1.66
+sugars: 1.83
+protein: 1.23
+potassium: 241.26
+p: 27.34
+
+vegetables
+calories: 59.15
+total_fat: 0.14
+saturated_fat: 0.03
+sodium: 31.85
+total_carbohydrate: 11.91
+dietary_fiber: 4
+sugars: 2.84
+protein: 2.6
+potassium: 153.79
+p: 46.41
+
 

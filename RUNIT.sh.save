@@ -1,0 +1,6 @@
+while read p; do
+  namex=${p#*"m/"}
+  name=${namex%\/}".nutrients"
+  python main.py 9e29c5706ea3154e016af8635578e47d 7d45955e 0 $p > "Nutritional_Data/"$name
+  echo $name
+done <urls5.txt

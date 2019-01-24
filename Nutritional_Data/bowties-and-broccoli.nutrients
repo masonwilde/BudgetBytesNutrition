@@ -1,4 +1,5 @@
 Recipe: Bowties and Broccoli
+URL: https://www.budgetbytes.com/bowties-and-broccoli/
 Servings: 4
 
 Ingredients:
@@ -35,4 +36,83 @@ sugars: 2.0674999999999994
 protein: 8.85
 potassium: 387.215
 p: 152.365
+
+
+Nutrients by Ingredient:
+
+pasta
+calories: 537.52
+total_fat: 3.16
+saturated_fat: 0.6
+sodium: 3.4
+total_carbohydrate: 104.99
+dietary_fiber: 6.12
+sugars: 1.91
+protein: 19.73
+potassium: 149.69
+p: 197.32
+
+broccoli florets
+calories: 158.76
+total_fat: 1.86
+saturated_fat: 0.36
+sodium: 185.97
+total_carbohydrate: 32.57
+dietary_fiber: 14.97
+sugars: 6.3
+protein: 10.8
+potassium: 1329.02
+p: 303.91
+
+butter
+calories: 305.44
+total_fat: 34.55
+saturated_fat: 21.88
+cholesterol: 91.59
+sodium: 273.92
+total_carbohydrate: 0.03
+sugars: 0.03
+protein: 0.36
+potassium: 10.22
+p: 10.22
+
+grated parmesan
+calories: 63
+total_fat: 4.18
+saturated_fat: 2.31
+cholesterol: 12.9
+sodium: 270.6
+total_carbohydrate: 2.09
+sugars: 0.01
+protein: 4.26
+potassium: 27
+p: 94.05
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+crushed red pepper
+calories: 0.35
+total_fat: 0.02
+sodium: 0.03
+total_carbohydrate: 0.06
+dietary_fiber: 0.03
+sugars: 0.01
+protein: 0.01
+potassium: 2.24
+p: 0.33
+
 

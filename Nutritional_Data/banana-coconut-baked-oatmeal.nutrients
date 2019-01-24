@@ -1,4 +1,5 @@
 Recipe: Banana Coconut Baked Oatmeal
+URL: https://www.budgetbytes.com/banana-coconut-baked-oatmeal/
 Servings: 4
 
 Ingredients:
@@ -38,4 +39,107 @@ sugars: 20.9075
 protein: 12.787500000000001
 potassium: 754.66
 p: 422.38
+
+
+Nutrients by Ingredient:
+
+bananas
+calories: 250.31
+total_fat: 0.93
+saturated_fat: 0.32
+sodium: 2.81
+total_carbohydrate: 64.24
+dietary_fiber: 7.31
+sugars: 34.4
+protein: 3.07
+potassium: 1006.88
+p: 61.88
+
+large egg
+calories: 71.5
+total_fat: 4.76
+saturated_fat: 1.56
+cholesterol: 186
+sodium: 71
+total_carbohydrate: 0.36
+sugars: 0.19
+protein: 6.28
+potassium: 69
+p: 99
+
+brown sugar
+calories: 173.38
+sodium: 12.78
+total_carbohydrate: 44.75
+sugars: 44.27
+protein: 0.05
+potassium: 60.68
+p: 1.83
+
+vanilla
+calories: 6.05
+sodium: 0.19
+total_carbohydrate: 0.27
+sugars: 0.27
+potassium: 3.11
+p: 0.13
+
+nutmeg
+calories: 5.78
+total_fat: 0.4
+saturated_fat: 0.29
+sodium: 0.18
+total_carbohydrate: 0.54
+dietary_fiber: 0.23
+sugars: 0.03
+protein: 0.06
+potassium: 3.85
+p: 2.34
+
+baking powder
+calories: 2.44
+sodium: 487.6
+total_carbohydrate: 1.27
+dietary_fiber: 0.01
+potassium: 0.92
+p: 100.79
+
+salt
+sodium: 1162.74
+potassium: 0.24
+
+unsweetened shredded coconut
+calories: 185.13
+total_fat: 18.1
+saturated_fat: 16.05
+sodium: 10.38
+total_carbohydrate: 6.63
+dietary_fiber: 4.57
+sugars: 2.06
+protein: 1.93
+potassium: 152.31
+p: 57.78
+
+coconut milk
+calories: 751.31
+total_fat: 81.35
+saturated_fat: 72.14
+sodium: 49.58
+total_carbohydrate: 10.72
+protein: 7.7
+potassium: 839.03
+p: 366.12
+
+old fashioned rolled oats
+calories: 924.07
+total_fat: 15.9
+saturated_fat: 2.71
+sodium: 14.63
+total_carbohydrate: 165.06
+dietary_fiber: 24.63
+sugars: 2.41
+protein: 32.06
+potassium: 882.62
+p: 999.65
+
 

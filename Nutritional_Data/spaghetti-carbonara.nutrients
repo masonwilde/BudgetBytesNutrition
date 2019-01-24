@@ -1,4 +1,5 @@
 Recipe: Spaghetti Carbonara
+URL: https://www.budgetbytes.com/spaghetti-carbonara/
 Servings: 4
 
 Ingredients:
@@ -36,4 +37,95 @@ sugars: 1.21
 protein: 22.320000000000004
 potassium: 360.63
 p: 350.83750000000003
+
+
+Nutrients by Ingredient:
+
+bacon
+calories: 398.03
+total_fat: 29.84
+saturated_fat: 10.18
+cholesterol: 84.2
+sodium: 1432.24
+total_carbohydrate: 1.45
+protein: 28.85
+potassium: 424.4
+p: 329.99
+
+cloves garlic
+calories: 8.94
+total_fat: 0.03
+saturated_fat: 0.01
+sodium: 1.02
+total_carbohydrate: 1.98
+dietary_fiber: 0.13
+sugars: 0.06
+protein: 0.38
+potassium: 24.06
+p: 9.18
+
+spaghetti
+calories: 511.17
+total_fat: 2.08
+saturated_fat: 0.38
+sodium: 16.36
+total_carbohydrate: 102.88
+dietary_fiber: 4.41
+sugars: 3.68
+protein: 17.97
+potassium: 307.25
+p: 260.41
+
+large eggs
+calories: 214.5
+total_fat: 14.27
+saturated_fat: 4.69
+cholesterol: 558
+sodium: 213
+total_carbohydrate: 1.08
+sugars: 0.56
+protein: 18.84
+potassium: 207
+p: 297
+
+grated parmesan
+calories: 315
+total_fat: 20.88
+saturated_fat: 11.53
+cholesterol: 64.5
+sodium: 1353
+total_carbohydrate: 10.43
+sugars: 0.05
+protein: 21.32
+potassium: 135
+p: 470.25
+
+pepper
+calories: 5.77
+total_fat: 0.07
+saturated_fat: 0.03
+sodium: 0.46
+total_carbohydrate: 1.47
+dietary_fiber: 0.58
+sugars: 0.01
+protein: 0.24
+potassium: 30.57
+p: 3.63
+
+salt
+sodium: 581.37
+potassium: 0.12
+
+fresh parsley
+calories: 20.41
+total_fat: 0.45
+saturated_fat: 0.07
+sodium: 31.75
+total_carbohydrate: 3.59
+dietary_fiber: 1.87
+sugars: 0.48
+protein: 1.68
+potassium: 314.12
+p: 32.89
+
 

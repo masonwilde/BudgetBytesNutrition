@@ -13,6 +13,8 @@ class Recipe:
 
         self.ingredients = ingredients
 
+        self.url = url
+
         if nutrients:
             self.nutrients = nutrients
         else:

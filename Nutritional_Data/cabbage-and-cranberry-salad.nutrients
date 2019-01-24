@@ -1,4 +1,5 @@
 Recipe: Cabbage and Cranberry Salad
+URL: https://www.budgetbytes.com/cabbage-and-cranberry-salad/
 Servings: 4
 
 Ingredients:
@@ -33,4 +34,67 @@ sugars: 16.315
 protein: 5.7275
 potassium: 402.4875
 p: 197.1275
+
+
+Nutrients by Ingredient:
+
+cabbage
+calories: 145.13
+total_fat: 0.38
+sodium: 50.48
+total_carbohydrate: 34.77
+dietary_fiber: 11.99
+sugars: 17.6
+protein: 8.01
+potassium: 1236.76
+p: 208.23
+
+dried cranberries
+calories: 162.62
+total_fat: 0.58
+saturated_fat: 0.05
+sodium: 2.64
+total_carbohydrate: 43.72
+dietary_fiber: 2.8
+sugars: 38.31
+protein: 0.09
+potassium: 25.87
+p: 4.22
+
+sunflower seeds
+calories: 174.72
+total_fat: 15.94
+saturated_fat: 1.67
+sodium: 1922.56
+total_carbohydrate: 4.9
+dietary_fiber: 2.88
+sugars: 0.87
+protein: 6.19
+potassium: 272
+p: 369.6
+
+feta
+calories: 149.69
+total_fat: 12.07
+saturated_fat: 8.47
+cholesterol: 50.46
+sodium: 519.94
+total_carbohydrate: 2.32
+sugars: 2.32
+protein: 8.06
+potassium: 35.15
+p: 191.08
+
+champagne vinaigrette
+calories: 194.88
+total_fat: 18.38
+saturated_fat: 2.52
+sodium: 676.33
+total_carbohydrate: 7.67
+dietary_fiber: 0.59
+sugars: 6.16
+protein: 0.56
+potassium: 40.17
+p: 15.38
+
 
